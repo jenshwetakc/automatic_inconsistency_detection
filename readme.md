@@ -2,14 +2,22 @@ Requirement
 
 Python requirement
 ## Collect the Dataset
-1.Collect Screenshots:
-    Capture screenshots of the web application in both light and dark modes.
+
+1. Collect Screenshots:
+
+   Capture screenshots of the web application in both light and dark modes.
+    
 2. Pair the Screenshots:
+   
     Match each light mode screenshot with its corresponding dark mode screenshot.
+   
 3. Rename the Screenshots:
+   
     Use the naming convention: 1light.png for light mode and 1dark.png for dark mode, ensuring each pair has the same numerical prefix.
+   
 4. Use Screenshots for Analysis:
-Utilize the paired screenshots to identify inconsistencies, such as edge or text inconsistencies.
+   
+    Utilize the paired screenshots to identify inconsistencies, such as edge or text inconsistencies.
 
 ## To Run the Data Collection Script
 1. Setup the Environment:
