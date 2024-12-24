@@ -1,0 +1,205 @@
+[
+    {
+        "Mode": "light",
+        "Text": "CHISPION",
+        "Text color one": [
+            213.0,
+            205.0,
+            203.0
+        ],
+        "contrast one": 1.030834872762642,
+        "Text Color": [
+            252.0,
+            246.0,
+            243.0
+        ],
+        "Background Color": [
+            210.0,
+            202.0,
+            200.0
+        ],
+        "contrast threshold": 4.5,
+        "Contrast Ratio": 1.5062783862259344,
+        "Failure Category": "Light text on light background",
+        "Bounding Box": [
+            903,
+            1522,
+            952,
+            1543
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "Log",
+        "Text color one": [
+            22.0,
+            22.0,
+            22.0
+        ],
+        "contrast one": 1.1604638597077,
+        "Text Color": [
+            21.0,
+            21.0,
+            21.0
+        ],
+        "Background Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Contrast Ratio": 1.1499806408645235,
+        "Failure Reason": "text inconsistency",
+        "Failure Category": "Dark text on dark background",
+        "Bounding Box": [
+            835,
+            93,
+            929,
+            143
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "in",
+        "Text color one": [
+            22.0,
+            22.0,
+            22.0
+        ],
+        "contrast one": 1.1604638597077,
+        "Text Color": [
+            21.0,
+            21.0,
+            21.0
+        ],
+        "Background Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Contrast Ratio": 1.1499806408645235,
+        "Failure Reason": "text inconsistency",
+        "Failure Category": "Dark text on dark background",
+        "Bounding Box": [
+            858,
+            154,
+            902,
+            193
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "O-128PION",
+        "Text color one": [
+            210.0,
+            202.0,
+            201.0
+        ],
+        "contrast one": 1.0300926656142129,
+        "Text Color": [
+            253.0,
+            245.0,
+            243.0
+        ],
+        "Background Color": [
+            213.0,
+            205.0,
+            203.0
+        ],
+        "Contrast Ratio": 1.454971569010085,
+        "Failure Reason": "contrast ratio issue",
+        "Failure Category": "Light text on light background",
+        "Bounding Box": [
+            902,
+            1521,
+            952,
+            1543
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "",
+        "Text color one": [
+            197.0,
+            181.0,
+            173.0
+        ],
+        "contrast one": 1.0110464555606886,
+        "Text Color": [
+            250.0,
+            237.0,
+            229.0
+        ],
+        "Background Color": [
+            196.0,
+            180.0,
+            172.0
+        ],
+        "Contrast Ratio": 1.748568402552747,
+        "Failure Reason": "contrast ratio issue",
+        "Failure Category": "Color contrast issue",
+        "Bounding Box": [
+            905,
+            1550,
+            915,
+            1562
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "Narcity",
+        "Text color one": [
+            29.0,
+            29.0,
+            29.0
+        ],
+        "contrast one": 1.2457297671383174,
+        "Text Color": [
+            28.0,
+            28.0,
+            28.0
+        ],
+        "Background Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Contrast Ratio": 1.2322449035948777,
+        "Failure Reason": "text inconsistency",
+        "Failure Category": "Dark text on dark background",
+        "Bounding Box": [
+            127,
+            2446,
+            290,
+            2495
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "Drive-Thru",
+        "Text color one": [
+            29.0,
+            29.0,
+            29.0
+        ],
+        "contrast one": 1.2457297671383174,
+        "Text Color": [
+            28.0,
+            28.0,
+            28.0
+        ],
+        "Background Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Contrast Ratio": 1.2322449035948777,
+        "Failure Reason": "text inconsistency",
+        "Failure Category": "Dark text on dark background",
+        "Bounding Box": [
+            298,
+            2446,
+            536,
+            2489
+        ]
+    }
+]

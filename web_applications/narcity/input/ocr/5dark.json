@@ -1,0 +1,1304 @@
+{
+    "apiVersion": "1.1",
+    "confidence": 0.9431,
+    "metadata": {
+        "pages": [
+            {
+                "height": 2532,
+                "page": 1,
+                "width": 1170
+            }
+        ]
+    },
+    "mimeType": "multipart/form-data",
+    "modelVersion": "ocr-2.2.1",
+    "numBilledPages": 1,
+    "pages": [
+        {
+            "confidence": 0.9431,
+            "height": 2532,
+            "id": 0,
+            "text": "Menu Newsletters \nNARCITY Log Subscribe \nSearch \nin \ntravel \u25c6 \nSummarize Later \nYou Can Dive \nInto A Hidden \nCave At This \nClear Blue \nFlorida Spring \nG See \nAdorable \nManatees \nYou'll feel like the little mermaid! \na woman diving into the cave. Right: manatees in the clear \nblue spring. \n@bobfanok  Instagram, TripAdvisor",
+            "width": 1170,
+            "words": [
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 46,
+                                "y": 60
+                            },
+                            {
+                                "x": 156,
+                                "y": 60
+                            },
+                            {
+                                "x": 156,
+                                "y": 93
+                            },
+                            {
+                                "x": 46,
+                                "y": 93
+                            }
+                        ]
+                    },
+                    "confidence": 0.9948,
+                    "id": 0,
+                    "text": "Menu"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 362,
+                                "y": 46
+                            },
+                            {
+                                "x": 640,
+                                "y": 46
+                            },
+                            {
+                                "x": 640,
+                                "y": 86
+                            },
+                            {
+                                "x": 362,
+                                "y": 86
+                            }
+                        ]
+                    },
+                    "confidence": 0.9898,
+                    "id": 1,
+                    "text": "Newsletters"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 182,
+                                "y": 89
+                            },
+                            {
+                                "x": 361,
+                                "y": 89
+                            },
+                            {
+                                "x": 361,
+                                "y": 142
+                            },
+                            {
+                                "x": 182,
+                                "y": 142
+                            }
+                        ]
+                    },
+                    "confidence": 0.9861,
+                    "id": 2,
+                    "text": "NARCITY"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 704,
+                                "y": 92
+                            },
+                            {
+                                "x": 796,
+                                "y": 96
+                            },
+                            {
+                                "x": 793,
+                                "y": 143
+                            },
+                            {
+                                "x": 702,
+                                "y": 139
+                            }
+                        ]
+                    },
+                    "confidence": 0.9714,
+                    "id": 3,
+                    "text": "Log"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 859,
+                                "y": 92
+                            },
+                            {
+                                "x": 1077,
+                                "y": 92
+                            },
+                            {
+                                "x": 1077,
+                                "y": 130
+                            },
+                            {
+                                "x": 859,
+                                "y": 130
+                            }
+                        ]
+                    },
+                    "confidence": 0.9966,
+                    "id": 4,
+                    "text": "Subscribe"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 440,
+                                "y": 139
+                            },
+                            {
+                                "x": 602,
+                                "y": 137
+                            },
+                            {
+                                "x": 603,
+                                "y": 175
+                            },
+                            {
+                                "x": 440,
+                                "y": 177
+                            }
+                        ]
+                    },
+                    "confidence": 0.9926,
+                    "id": 5,
+                    "text": "Search"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 724,
+                                "y": 154
+                            },
+                            {
+                                "x": 768,
+                                "y": 153
+                            },
+                            {
+                                "x": 769,
+                                "y": 193
+                            },
+                            {
+                                "x": 725,
+                                "y": 194
+                            }
+                        ]
+                    },
+                    "confidence": 0.9824,
+                    "id": 6,
+                    "text": "in"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 90,
+                                "y": 245
+                            },
+                            {
+                                "x": 244,
+                                "y": 245
+                            },
+                            {
+                                "x": 244,
+                                "y": 289
+                            },
+                            {
+                                "x": 90,
+                                "y": 289
+                            }
+                        ]
+                    },
+                    "confidence": 0.9634,
+                    "id": 7,
+                    "text": "travel"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 647,
+                                "y": 252
+                            },
+                            {
+                                "x": 682,
+                                "y": 252
+                            },
+                            {
+                                "x": 681,
+                                "y": 298
+                            },
+                            {
+                                "x": 647,
+                                "y": 298
+                            }
+                        ]
+                    },
+                    "confidence": 0.2993,
+                    "id": 8,
+                    "text": "\u25c6"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 560,
+                                "y": 306
+                            },
+                            {
+                                "x": 785,
+                                "y": 306
+                            },
+                            {
+                                "x": 785,
+                                "y": 342
+                            },
+                            {
+                                "x": 560,
+                                "y": 342
+                            }
+                        ]
+                    },
+                    "confidence": 0.993,
+                    "id": 9,
+                    "text": "Summarize"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 918,
+                                "y": 303
+                            },
+                            {
+                                "x": 1024,
+                                "y": 303
+                            },
+                            {
+                                "x": 1024,
+                                "y": 337
+                            },
+                            {
+                                "x": 918,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    "confidence": 0.9915,
+                    "id": 10,
+                    "text": "Later"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 97,
+                                "y": 431
+                            },
+                            {
+                                "x": 333,
+                                "y": 431
+                            },
+                            {
+                                "x": 333,
+                                "y": 521
+                            },
+                            {
+                                "x": 97,
+                                "y": 521
+                            }
+                        ]
+                    },
+                    "confidence": 0.9848,
+                    "id": 11,
+                    "text": "You"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 382,
+                                "y": 431
+                            },
+                            {
+                                "x": 627,
+                                "y": 424
+                            },
+                            {
+                                "x": 630,
+                                "y": 518
+                            },
+                            {
+                                "x": 385,
+                                "y": 525
+                            }
+                        ]
+                    },
+                    "confidence": 0.9566,
+                    "id": 12,
+                    "text": "Can"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 680,
+                                "y": 428
+                            },
+                            {
+                                "x": 956,
+                                "y": 428
+                            },
+                            {
+                                "x": 956,
+                                "y": 520
+                            },
+                            {
+                                "x": 680,
+                                "y": 520
+                            }
+                        ]
+                    },
+                    "confidence": 0.9733,
+                    "id": 13,
+                    "text": "Dive"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 98,
+                                "y": 568
+                            },
+                            {
+                                "x": 350,
+                                "y": 568
+                            },
+                            {
+                                "x": 350,
+                                "y": 657
+                            },
+                            {
+                                "x": 98,
+                                "y": 657
+                            }
+                        ]
+                    },
+                    "confidence": 0.9604,
+                    "id": 14,
+                    "text": "Into"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 395,
+                                "y": 571
+                            },
+                            {
+                                "x": 481,
+                                "y": 569
+                            },
+                            {
+                                "x": 483,
+                                "y": 656
+                            },
+                            {
+                                "x": 396,
+                                "y": 658
+                            }
+                        ]
+                    },
+                    "confidence": 0.9386,
+                    "id": 15,
+                    "text": "A"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 535,
+                                "y": 566
+                            },
+                            {
+                                "x": 986,
+                                "y": 566
+                            },
+                            {
+                                "x": 986,
+                                "y": 659
+                            },
+                            {
+                                "x": 535,
+                                "y": 659
+                            }
+                        ]
+                    },
+                    "confidence": 0.9684,
+                    "id": 16,
+                    "text": "Hidden"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 95,
+                                "y": 710
+                            },
+                            {
+                                "x": 412,
+                                "y": 693
+                            },
+                            {
+                                "x": 418,
+                                "y": 796
+                            },
+                            {
+                                "x": 101,
+                                "y": 813
+                            }
+                        ]
+                    },
+                    "confidence": 0.9827,
+                    "id": 17,
+                    "text": "Cave"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 462,
+                                "y": 708
+                            },
+                            {
+                                "x": 606,
+                                "y": 708
+                            },
+                            {
+                                "x": 606,
+                                "y": 798
+                            },
+                            {
+                                "x": 462,
+                                "y": 798
+                            }
+                        ]
+                    },
+                    "confidence": 0.981,
+                    "id": 18,
+                    "text": "At"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 647,
+                                "y": 707
+                            },
+                            {
+                                "x": 927,
+                                "y": 707
+                            },
+                            {
+                                "x": 927,
+                                "y": 799
+                            },
+                            {
+                                "x": 647,
+                                "y": 799
+                            }
+                        ]
+                    },
+                    "confidence": 0.9791,
+                    "id": 19,
+                    "text": "This"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 98,
+                                "y": 842
+                            },
+                            {
+                                "x": 443,
+                                "y": 842
+                            },
+                            {
+                                "x": 443,
+                                "y": 936
+                            },
+                            {
+                                "x": 98,
+                                "y": 936
+                            }
+                        ]
+                    },
+                    "confidence": 0.9821,
+                    "id": 20,
+                    "text": "Clear"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 488,
+                                "y": 846
+                            },
+                            {
+                                "x": 772,
+                                "y": 845
+                            },
+                            {
+                                "x": 773,
+                                "y": 935
+                            },
+                            {
+                                "x": 489,
+                                "y": 936
+                            }
+                        ]
+                    },
+                    "confidence": 0.981,
+                    "id": 21,
+                    "text": "Blue"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 99,
+                                "y": 982
+                            },
+                            {
+                                "x": 546,
+                                "y": 982
+                            },
+                            {
+                                "x": 546,
+                                "y": 1075
+                            },
+                            {
+                                "x": 99,
+                                "y": 1075
+                            }
+                        ]
+                    },
+                    "confidence": 0.9468,
+                    "id": 22,
+                    "text": "Florida"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 591,
+                                "y": 979
+                            },
+                            {
+                                "x": 1011,
+                                "y": 979
+                            },
+                            {
+                                "x": 1011,
+                                "y": 1098
+                            },
+                            {
+                                "x": 591,
+                                "y": 1098
+                            }
+                        ]
+                    },
+                    "confidence": 0.9769,
+                    "id": 23,
+                    "text": "Spring"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 105,
+                                "y": 1124
+                            },
+                            {
+                                "x": 199,
+                                "y": 1125
+                            },
+                            {
+                                "x": 198,
+                                "y": 1213
+                            },
+                            {
+                                "x": 104,
+                                "y": 1212
+                            }
+                        ]
+                    },
+                    "confidence": 0.1803,
+                    "id": 24,
+                    "text": "G"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 244,
+                                "y": 1121
+                            },
+                            {
+                                "x": 487,
+                                "y": 1121
+                            },
+                            {
+                                "x": 487,
+                                "y": 1217
+                            },
+                            {
+                                "x": 244,
+                                "y": 1217
+                            }
+                        ]
+                    },
+                    "confidence": 0.9835,
+                    "id": 25,
+                    "text": "See"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 97,
+                                "y": 1259
+                            },
+                            {
+                                "x": 684,
+                                "y": 1258
+                            },
+                            {
+                                "x": 685,
+                                "y": 1349
+                            },
+                            {
+                                "x": 97,
+                                "y": 1351
+                            }
+                        ]
+                    },
+                    "confidence": 0.9925,
+                    "id": 26,
+                    "text": "Adorable"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 100,
+                                "y": 1397
+                            },
+                            {
+                                "x": 735,
+                                "y": 1397
+                            },
+                            {
+                                "x": 735,
+                                "y": 1494
+                            },
+                            {
+                                "x": 100,
+                                "y": 1494
+                            }
+                        ]
+                    },
+                    "confidence": 0.9924,
+                    "id": 27,
+                    "text": "Manatees"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 89,
+                                "y": 1590
+                            },
+                            {
+                                "x": 203,
+                                "y": 1587
+                            },
+                            {
+                                "x": 204,
+                                "y": 1626
+                            },
+                            {
+                                "x": 90,
+                                "y": 1629
+                            }
+                        ]
+                    },
+                    "confidence": 0.9919,
+                    "id": 28,
+                    "text": "You'll"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 211,
+                                "y": 1588
+                            },
+                            {
+                                "x": 292,
+                                "y": 1588
+                            },
+                            {
+                                "x": 292,
+                                "y": 1627
+                            },
+                            {
+                                "x": 211,
+                                "y": 1627
+                            }
+                        ]
+                    },
+                    "confidence": 0.9941,
+                    "id": 29,
+                    "text": "feel"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 296,
+                                "y": 1589
+                            },
+                            {
+                                "x": 370,
+                                "y": 1587
+                            },
+                            {
+                                "x": 371,
+                                "y": 1625
+                            },
+                            {
+                                "x": 297,
+                                "y": 1627
+                            }
+                        ]
+                    },
+                    "confidence": 0.9951,
+                    "id": 30,
+                    "text": "like"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 379,
+                                "y": 1589
+                            },
+                            {
+                                "x": 448,
+                                "y": 1589
+                            },
+                            {
+                                "x": 448,
+                                "y": 1627
+                            },
+                            {
+                                "x": 379,
+                                "y": 1627
+                            }
+                        ]
+                    },
+                    "confidence": 0.9989,
+                    "id": 31,
+                    "text": "the"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 455,
+                                "y": 1589
+                            },
+                            {
+                                "x": 546,
+                                "y": 1589
+                            },
+                            {
+                                "x": 546,
+                                "y": 1627
+                            },
+                            {
+                                "x": 455,
+                                "y": 1627
+                            }
+                        ]
+                    },
+                    "confidence": 0.9911,
+                    "id": 32,
+                    "text": "little"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 558,
+                                "y": 1590
+                            },
+                            {
+                                "x": 757,
+                                "y": 1588
+                            },
+                            {
+                                "x": 758,
+                                "y": 1626
+                            },
+                            {
+                                "x": 558,
+                                "y": 1628
+                            }
+                        ]
+                    },
+                    "confidence": 0.9905,
+                    "id": 33,
+                    "text": "mermaid!"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 149,
+                                "y": 2065
+                            },
+                            {
+                                "x": 170,
+                                "y": 2065
+                            },
+                            {
+                                "x": 170,
+                                "y": 2090
+                            },
+                            {
+                                "x": 149,
+                                "y": 2090
+                            }
+                        ]
+                    },
+                    "confidence": 0.9981,
+                    "id": 34,
+                    "text": "a"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 179,
+                                "y": 2060
+                            },
+                            {
+                                "x": 295,
+                                "y": 2060
+                            },
+                            {
+                                "x": 295,
+                                "y": 2091
+                            },
+                            {
+                                "x": 179,
+                                "y": 2091
+                            }
+                        ]
+                    },
+                    "confidence": 0.9776,
+                    "id": 35,
+                    "text": "woman"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 301,
+                                "y": 2060
+                            },
+                            {
+                                "x": 400,
+                                "y": 2060
+                            },
+                            {
+                                "x": 400,
+                                "y": 2095
+                            },
+                            {
+                                "x": 301,
+                                "y": 2095
+                            }
+                        ]
+                    },
+                    "confidence": 0.9831,
+                    "id": 36,
+                    "text": "diving"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 404,
+                                "y": 2061
+                            },
+                            {
+                                "x": 464,
+                                "y": 2061
+                            },
+                            {
+                                "x": 464,
+                                "y": 2088
+                            },
+                            {
+                                "x": 404,
+                                "y": 2088
+                            }
+                        ]
+                    },
+                    "confidence": 0.9958,
+                    "id": 37,
+                    "text": "into"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 470,
+                                "y": 2059
+                            },
+                            {
+                                "x": 523,
+                                "y": 2059
+                            },
+                            {
+                                "x": 523,
+                                "y": 2089
+                            },
+                            {
+                                "x": 470,
+                                "y": 2089
+                            }
+                        ]
+                    },
+                    "confidence": 0.9992,
+                    "id": 38,
+                    "text": "the"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 528,
+                                "y": 2061
+                            },
+                            {
+                                "x": 619,
+                                "y": 2061
+                            },
+                            {
+                                "x": 619,
+                                "y": 2092
+                            },
+                            {
+                                "x": 528,
+                                "y": 2092
+                            }
+                        ]
+                    },
+                    "confidence": 0.9688,
+                    "id": 39,
+                    "text": "cave."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 623,
+                                "y": 2060
+                            },
+                            {
+                                "x": 719,
+                                "y": 2060
+                            },
+                            {
+                                "x": 719,
+                                "y": 2094
+                            },
+                            {
+                                "x": 623,
+                                "y": 2094
+                            }
+                        ]
+                    },
+                    "confidence": 0.9814,
+                    "id": 40,
+                    "text": "Right:"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 725,
+                                "y": 2061
+                            },
+                            {
+                                "x": 886,
+                                "y": 2061
+                            },
+                            {
+                                "x": 886,
+                                "y": 2091
+                            },
+                            {
+                                "x": 725,
+                                "y": 2091
+                            }
+                        ]
+                    },
+                    "confidence": 0.9907,
+                    "id": 41,
+                    "text": "manatees"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 891,
+                                "y": 2063
+                            },
+                            {
+                                "x": 922,
+                                "y": 2063
+                            },
+                            {
+                                "x": 922,
+                                "y": 2088
+                            },
+                            {
+                                "x": 891,
+                                "y": 2088
+                            }
+                        ]
+                    },
+                    "confidence": 0.9917,
+                    "id": 42,
+                    "text": "in"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 928,
+                                "y": 2060
+                            },
+                            {
+                                "x": 980,
+                                "y": 2060
+                            },
+                            {
+                                "x": 980,
+                                "y": 2089
+                            },
+                            {
+                                "x": 928,
+                                "y": 2089
+                            }
+                        ]
+                    },
+                    "confidence": 0.9997,
+                    "id": 43,
+                    "text": "the"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 986,
+                                "y": 2059
+                            },
+                            {
+                                "x": 1067,
+                                "y": 2059
+                            },
+                            {
+                                "x": 1067,
+                                "y": 2089
+                            },
+                            {
+                                "x": 986,
+                                "y": 2089
+                            }
+                        ]
+                    },
+                    "confidence": 0.9997,
+                    "id": 44,
+                    "text": "clear"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 149,
+                                "y": 2111
+                            },
+                            {
+                                "x": 221,
+                                "y": 2111
+                            },
+                            {
+                                "x": 221,
+                                "y": 2144
+                            },
+                            {
+                                "x": 149,
+                                "y": 2144
+                            }
+                        ]
+                    },
+                    "confidence": 0.992,
+                    "id": 45,
+                    "text": "blue"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 223,
+                                "y": 2112
+                            },
+                            {
+                                "x": 334,
+                                "y": 2112
+                            },
+                            {
+                                "x": 334,
+                                "y": 2146
+                            },
+                            {
+                                "x": 223,
+                                "y": 2146
+                            }
+                        ]
+                    },
+                    "confidence": 0.9633,
+                    "id": 46,
+                    "text": "spring."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 152,
+                                "y": 2174
+                            },
+                            {
+                                "x": 338,
+                                "y": 2171
+                            },
+                            {
+                                "x": 339,
+                                "y": 2207
+                            },
+                            {
+                                "x": 152,
+                                "y": 2209
+                            }
+                        ]
+                    },
+                    "confidence": 0.9866,
+                    "id": 47,
+                    "text": "@bobfanok"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 342,
+                                "y": 2176
+                            },
+                            {
+                                "x": 351,
+                                "y": 2176
+                            },
+                            {
+                                "x": 351,
+                                "y": 2207
+                            },
+                            {
+                                "x": 342,
+                                "y": 2207
+                            }
+                        ]
+                    },
+                    "confidence": 0.4618,
+                    "id": 48,
+                    "text": ""
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 357,
+                                "y": 2175
+                            },
+                            {
+                                "x": 530,
+                                "y": 2175
+                            },
+                            {
+                                "x": 530,
+                                "y": 2210
+                            },
+                            {
+                                "x": 357,
+                                "y": 2210
+                            }
+                        ]
+                    },
+                    "confidence": 0.9693,
+                    "id": 49,
+                    "text": "Instagram,"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 535,
+                                "y": 2173
+                            },
+                            {
+                                "x": 722,
+                                "y": 2173
+                            },
+                            {
+                                "x": 722,
+                                "y": 2208
+                            },
+                            {
+                                "x": 535,
+                                "y": 2208
+                            }
+                        ]
+                    },
+                    "confidence": 0.955,
+                    "id": 50,
+                    "text": "TripAdvisor"
+                }
+            ]
+        }
+    ],
+    "stored": false,
+    "text": "Menu Newsletters \nNARCITY Log Subscribe \nSearch \nin \ntravel \u25c6 \nSummarize Later \nYou Can Dive \nInto A Hidden \nCave At This \nClear Blue \nFlorida Spring \nG See \nAdorable \nManatees \nYou'll feel like the little mermaid! \na woman diving into the cave. Right: manatees in the clear \nblue spring. \n@bobfanok  Instagram, TripAdvisor"
+}

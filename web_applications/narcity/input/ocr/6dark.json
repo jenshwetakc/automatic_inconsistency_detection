@@ -1,0 +1,2004 @@
+{
+    "apiVersion": "1.1",
+    "confidence": 0.9673,
+    "metadata": {
+        "pages": [
+            {
+                "height": 2532,
+                "page": 1,
+                "width": 1170
+            }
+        ]
+    },
+    "mimeType": "multipart/form-data",
+    "modelVersion": "ocr-2.2.1",
+    "numBilledPages": 1,
+    "pages": [
+        {
+            "confidence": 0.9673,
+            "height": 2532,
+            "id": 0,
+            "text": "Menu Newsletters \nNARCITY Log Subscribe \nSearch \nin \nReal Estate \nDiscover where to live right now. Narcity Real Esta \nhouses, trendy neighbourhoods, unique rentals, a \nfor your next move. \nBrowse by cities in Canada: Toronto Ottawa \n Vancouver  Calgary  Edmonton \nMontreal \nBrowse by cities in USA: Atlanta  Dallas \nSavannah Austin Houston Miami \nNovember 18, 2024- Best Cities To Live In Canada \nMadeline Forsyth \nThis Ontario spot with \nEuropean charm is on \nCanada's top trending \ncities for renters",
+            "width": 1170,
+            "words": [
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 46,
+                                "y": 60
+                            },
+                            {
+                                "x": 156,
+                                "y": 60
+                            },
+                            {
+                                "x": 156,
+                                "y": 93
+                            },
+                            {
+                                "x": 46,
+                                "y": 93
+                            }
+                        ]
+                    },
+                    "confidence": 0.9948,
+                    "id": 0,
+                    "text": "Menu"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 362,
+                                "y": 45
+                            },
+                            {
+                                "x": 640,
+                                "y": 47
+                            },
+                            {
+                                "x": 640,
+                                "y": 87
+                            },
+                            {
+                                "x": 362,
+                                "y": 84
+                            }
+                        ]
+                    },
+                    "confidence": 0.9923,
+                    "id": 1,
+                    "text": "Newsletters"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 183,
+                                "y": 89
+                            },
+                            {
+                                "x": 361,
+                                "y": 89
+                            },
+                            {
+                                "x": 361,
+                                "y": 142
+                            },
+                            {
+                                "x": 183,
+                                "y": 142
+                            }
+                        ]
+                    },
+                    "confidence": 0.988,
+                    "id": 2,
+                    "text": "NARCITY"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 705,
+                                "y": 92
+                            },
+                            {
+                                "x": 796,
+                                "y": 96
+                            },
+                            {
+                                "x": 793,
+                                "y": 144
+                            },
+                            {
+                                "x": 703,
+                                "y": 139
+                            }
+                        ]
+                    },
+                    "confidence": 0.9746,
+                    "id": 3,
+                    "text": "Log"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 859,
+                                "y": 92
+                            },
+                            {
+                                "x": 1077,
+                                "y": 92
+                            },
+                            {
+                                "x": 1077,
+                                "y": 130
+                            },
+                            {
+                                "x": 859,
+                                "y": 130
+                            }
+                        ]
+                    },
+                    "confidence": 0.9966,
+                    "id": 4,
+                    "text": "Subscribe"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 440,
+                                "y": 139
+                            },
+                            {
+                                "x": 602,
+                                "y": 137
+                            },
+                            {
+                                "x": 603,
+                                "y": 175
+                            },
+                            {
+                                "x": 440,
+                                "y": 177
+                            }
+                        ]
+                    },
+                    "confidence": 0.9926,
+                    "id": 5,
+                    "text": "Search"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 725,
+                                "y": 153
+                            },
+                            {
+                                "x": 768,
+                                "y": 152
+                            },
+                            {
+                                "x": 769,
+                                "y": 193
+                            },
+                            {
+                                "x": 725,
+                                "y": 193
+                            }
+                        ]
+                    },
+                    "confidence": 0.9719,
+                    "id": 6,
+                    "text": "in"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 219,
+                                "y": 338
+                            },
+                            {
+                                "x": 493,
+                                "y": 336
+                            },
+                            {
+                                "x": 494,
+                                "y": 425
+                            },
+                            {
+                                "x": 220,
+                                "y": 427
+                            }
+                        ]
+                    },
+                    "confidence": 0.9803,
+                    "id": 7,
+                    "text": "Real"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 548,
+                                "y": 339
+                            },
+                            {
+                                "x": 959,
+                                "y": 335
+                            },
+                            {
+                                "x": 960,
+                                "y": 424
+                            },
+                            {
+                                "x": 549,
+                                "y": 427
+                            }
+                        ]
+                    },
+                    "confidence": 0.9905,
+                    "id": 8,
+                    "text": "Estate"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 4,
+                                "y": 536
+                            },
+                            {
+                                "x": 214,
+                                "y": 536
+                            },
+                            {
+                                "x": 214,
+                                "y": 577
+                            },
+                            {
+                                "x": 4,
+                                "y": 577
+                            }
+                        ]
+                    },
+                    "confidence": 0.995,
+                    "id": 9,
+                    "text": "Discover"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 223,
+                                "y": 537
+                            },
+                            {
+                                "x": 368,
+                                "y": 537
+                            },
+                            {
+                                "x": 368,
+                                "y": 577
+                            },
+                            {
+                                "x": 223,
+                                "y": 577
+                            }
+                        ]
+                    },
+                    "confidence": 0.997,
+                    "id": 10,
+                    "text": "where"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 379,
+                                "y": 538
+                            },
+                            {
+                                "x": 426,
+                                "y": 539
+                            },
+                            {
+                                "x": 425,
+                                "y": 578
+                            },
+                            {
+                                "x": 379,
+                                "y": 577
+                            }
+                        ]
+                    },
+                    "confidence": 0.9989,
+                    "id": 11,
+                    "text": "to"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 436,
+                                "y": 536
+                            },
+                            {
+                                "x": 518,
+                                "y": 536
+                            },
+                            {
+                                "x": 518,
+                                "y": 578
+                            },
+                            {
+                                "x": 436,
+                                "y": 578
+                            }
+                        ]
+                    },
+                    "confidence": 0.9887,
+                    "id": 12,
+                    "text": "live"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 528,
+                                "y": 535
+                            },
+                            {
+                                "x": 640,
+                                "y": 535
+                            },
+                            {
+                                "x": 640,
+                                "y": 587
+                            },
+                            {
+                                "x": 528,
+                                "y": 587
+                            }
+                        ]
+                    },
+                    "confidence": 0.992,
+                    "id": 13,
+                    "text": "right"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 650,
+                                "y": 542
+                            },
+                            {
+                                "x": 755,
+                                "y": 542
+                            },
+                            {
+                                "x": 755,
+                                "y": 578
+                            },
+                            {
+                                "x": 650,
+                                "y": 578
+                            }
+                        ]
+                    },
+                    "confidence": 0.9825,
+                    "id": 14,
+                    "text": "now."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 769,
+                                "y": 535
+                            },
+                            {
+                                "x": 939,
+                                "y": 535
+                            },
+                            {
+                                "x": 939,
+                                "y": 586
+                            },
+                            {
+                                "x": 769,
+                                "y": 586
+                            }
+                        ]
+                    },
+                    "confidence": 0.9972,
+                    "id": 15,
+                    "text": "Narcity"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 952,
+                                "y": 536
+                            },
+                            {
+                                "x": 1058,
+                                "y": 536
+                            },
+                            {
+                                "x": 1058,
+                                "y": 577
+                            },
+                            {
+                                "x": 952,
+                                "y": 577
+                            }
+                        ]
+                    },
+                    "confidence": 0.9968,
+                    "id": 16,
+                    "text": "Real"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 1073,
+                                "y": 538
+                            },
+                            {
+                                "x": 1173,
+                                "y": 538
+                            },
+                            {
+                                "x": 1173,
+                                "y": 578
+                            },
+                            {
+                                "x": 1073,
+                                "y": 578
+                            }
+                        ]
+                    },
+                    "confidence": 0.9955,
+                    "id": 17,
+                    "text": "Esta"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 2,
+                                "y": 621
+                            },
+                            {
+                                "x": 192,
+                                "y": 632
+                            },
+                            {
+                                "x": 189,
+                                "y": 679
+                            },
+                            {
+                                "x": 0,
+                                "y": 668
+                            }
+                        ]
+                    },
+                    "confidence": 0.9876,
+                    "id": 18,
+                    "text": "houses,"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 200,
+                                "y": 626
+                            },
+                            {
+                                "x": 355,
+                                "y": 626
+                            },
+                            {
+                                "x": 355,
+                                "y": 677
+                            },
+                            {
+                                "x": 200,
+                                "y": 677
+                            }
+                        ]
+                    },
+                    "confidence": 0.9921,
+                    "id": 19,
+                    "text": "trendy"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 365,
+                                "y": 624
+                            },
+                            {
+                                "x": 771,
+                                "y": 624
+                            },
+                            {
+                                "x": 771,
+                                "y": 677
+                            },
+                            {
+                                "x": 365,
+                                "y": 677
+                            }
+                        ]
+                    },
+                    "confidence": 0.9836,
+                    "id": 20,
+                    "text": "neighbourhoods,"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 783,
+                                "y": 626
+                            },
+                            {
+                                "x": 947,
+                                "y": 626
+                            },
+                            {
+                                "x": 947,
+                                "y": 677
+                            },
+                            {
+                                "x": 783,
+                                "y": 677
+                            }
+                        ]
+                    },
+                    "confidence": 0.9964,
+                    "id": 21,
+                    "text": "unique"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 958,
+                                "y": 624
+                            },
+                            {
+                                "x": 1136,
+                                "y": 626
+                            },
+                            {
+                                "x": 1135,
+                                "y": 676
+                            },
+                            {
+                                "x": 957,
+                                "y": 673
+                            }
+                        ]
+                    },
+                    "confidence": 0.9617,
+                    "id": 22,
+                    "text": "rentals,"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 1147,
+                                "y": 635
+                            },
+                            {
+                                "x": 1171,
+                                "y": 635
+                            },
+                            {
+                                "x": 1171,
+                                "y": 668
+                            },
+                            {
+                                "x": 1147,
+                                "y": 668
+                            }
+                        ]
+                    },
+                    "confidence": 0.9965,
+                    "id": 23,
+                    "text": "a"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": -1,
+                                "y": 714
+                            },
+                            {
+                                "x": 66,
+                                "y": 716
+                            },
+                            {
+                                "x": 65,
+                                "y": 757
+                            },
+                            {
+                                "x": -2,
+                                "y": 756
+                            }
+                        ]
+                    },
+                    "confidence": 0.9972,
+                    "id": 24,
+                    "text": "for"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 71,
+                                "y": 722
+                            },
+                            {
+                                "x": 183,
+                                "y": 722
+                            },
+                            {
+                                "x": 183,
+                                "y": 767
+                            },
+                            {
+                                "x": 71,
+                                "y": 767
+                            }
+                        ]
+                    },
+                    "confidence": 0.9888,
+                    "id": 25,
+                    "text": "your"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 190,
+                                "y": 719
+                            },
+                            {
+                                "x": 295,
+                                "y": 717
+                            },
+                            {
+                                "x": 296,
+                                "y": 756
+                            },
+                            {
+                                "x": 191,
+                                "y": 758
+                            }
+                        ]
+                    },
+                    "confidence": 0.9973,
+                    "id": 26,
+                    "text": "next"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 308,
+                                "y": 721
+                            },
+                            {
+                                "x": 451,
+                                "y": 721
+                            },
+                            {
+                                "x": 451,
+                                "y": 757
+                            },
+                            {
+                                "x": 308,
+                                "y": 757
+                            }
+                        ]
+                    },
+                    "confidence": 0.9931,
+                    "id": 27,
+                    "text": "move."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 38,
+                                "y": 926
+                            },
+                            {
+                                "x": 200,
+                                "y": 926
+                            },
+                            {
+                                "x": 200,
+                                "y": 964
+                            },
+                            {
+                                "x": 38,
+                                "y": 964
+                            }
+                        ]
+                    },
+                    "confidence": 0.992,
+                    "id": 28,
+                    "text": "Browse"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 210,
+                                "y": 925
+                            },
+                            {
+                                "x": 264,
+                                "y": 925
+                            },
+                            {
+                                "x": 264,
+                                "y": 973
+                            },
+                            {
+                                "x": 210,
+                                "y": 973
+                            }
+                        ]
+                    },
+                    "confidence": 0.9922,
+                    "id": 29,
+                    "text": "by"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 272,
+                                "y": 925
+                            },
+                            {
+                                "x": 388,
+                                "y": 925
+                            },
+                            {
+                                "x": 388,
+                                "y": 964
+                            },
+                            {
+                                "x": 272,
+                                "y": 964
+                            }
+                        ]
+                    },
+                    "confidence": 0.9808,
+                    "id": 30,
+                    "text": "cities"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 396,
+                                "y": 925
+                            },
+                            {
+                                "x": 436,
+                                "y": 925
+                            },
+                            {
+                                "x": 436,
+                                "y": 964
+                            },
+                            {
+                                "x": 395,
+                                "y": 964
+                            }
+                        ]
+                    },
+                    "confidence": 0.994,
+                    "id": 31,
+                    "text": "in"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 447,
+                                "y": 924
+                            },
+                            {
+                                "x": 629,
+                                "y": 924
+                            },
+                            {
+                                "x": 629,
+                                "y": 964
+                            },
+                            {
+                                "x": 447,
+                                "y": 964
+                            }
+                        ]
+                    },
+                    "confidence": 0.9975,
+                    "id": 32,
+                    "text": "Canada:"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 671,
+                                "y": 925
+                            },
+                            {
+                                "x": 848,
+                                "y": 925
+                            },
+                            {
+                                "x": 848,
+                                "y": 964
+                            },
+                            {
+                                "x": 671,
+                                "y": 964
+                            }
+                        ]
+                    },
+                    "confidence": 0.9943,
+                    "id": 33,
+                    "text": "Toronto"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 941,
+                                "y": 926
+                            },
+                            {
+                                "x": 1106,
+                                "y": 926
+                            },
+                            {
+                                "x": 1106,
+                                "y": 965
+                            },
+                            {
+                                "x": 941,
+                                "y": 965
+                            }
+                        ]
+                    },
+                    "confidence": 0.9945,
+                    "id": 34,
+                    "text": "Ottawa"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 111,
+                                "y": 1011
+                            },
+                            {
+                                "x": 122,
+                                "y": 1011
+                            },
+                            {
+                                "x": 122,
+                                "y": 1041
+                            },
+                            {
+                                "x": 111,
+                                "y": 1041
+                            }
+                        ]
+                    },
+                    "confidence": 0.5854,
+                    "id": 35,
+                    "text": ""
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 162,
+                                "y": 1004
+                            },
+                            {
+                                "x": 411,
+                                "y": 1005
+                            },
+                            {
+                                "x": 410,
+                                "y": 1044
+                            },
+                            {
+                                "x": 162,
+                                "y": 1043
+                            }
+                        ]
+                    },
+                    "confidence": 0.9914,
+                    "id": 36,
+                    "text": "Vancouver"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 448,
+                                "y": 1010
+                            },
+                            {
+                                "x": 460,
+                                "y": 1010
+                            },
+                            {
+                                "x": 460,
+                                "y": 1043
+                            },
+                            {
+                                "x": 448,
+                                "y": 1043
+                            }
+                        ]
+                    },
+                    "confidence": 0.5262,
+                    "id": 37,
+                    "text": ""
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 501,
+                                "y": 1003
+                            },
+                            {
+                                "x": 680,
+                                "y": 1006
+                            },
+                            {
+                                "x": 679,
+                                "y": 1053
+                            },
+                            {
+                                "x": 500,
+                                "y": 1050
+                            }
+                        ]
+                    },
+                    "confidence": 0.9909,
+                    "id": 38,
+                    "text": "Calgary"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 717,
+                                "y": 1011
+                            },
+                            {
+                                "x": 728,
+                                "y": 1011
+                            },
+                            {
+                                "x": 728,
+                                "y": 1042
+                            },
+                            {
+                                "x": 717,
+                                "y": 1042
+                            }
+                        ]
+                    },
+                    "confidence": 0.5739,
+                    "id": 39,
+                    "text": ""
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 771,
+                                "y": 1004
+                            },
+                            {
+                                "x": 1006,
+                                "y": 1004
+                            },
+                            {
+                                "x": 1006,
+                                "y": 1043
+                            },
+                            {
+                                "x": 771,
+                                "y": 1043
+                            }
+                        ]
+                    },
+                    "confidence": 0.9894,
+                    "id": 40,
+                    "text": "Edmonton"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 486,
+                                "y": 1086
+                            },
+                            {
+                                "x": 687,
+                                "y": 1084
+                            },
+                            {
+                                "x": 688,
+                                "y": 1122
+                            },
+                            {
+                                "x": 487,
+                                "y": 1124
+                            }
+                        ]
+                    },
+                    "confidence": 0.9953,
+                    "id": 41,
+                    "text": "Montreal"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 77,
+                                "y": 1165
+                            },
+                            {
+                                "x": 241,
+                                "y": 1165
+                            },
+                            {
+                                "x": 241,
+                                "y": 1202
+                            },
+                            {
+                                "x": 77,
+                                "y": 1202
+                            }
+                        ]
+                    },
+                    "confidence": 0.992,
+                    "id": 42,
+                    "text": "Browse"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 250,
+                                "y": 1163
+                            },
+                            {
+                                "x": 304,
+                                "y": 1164
+                            },
+                            {
+                                "x": 303,
+                                "y": 1211
+                            },
+                            {
+                                "x": 250,
+                                "y": 1210
+                            }
+                        ]
+                    },
+                    "confidence": 0.9922,
+                    "id": 43,
+                    "text": "by"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 313,
+                                "y": 1164
+                            },
+                            {
+                                "x": 428,
+                                "y": 1164
+                            },
+                            {
+                                "x": 428,
+                                "y": 1202
+                            },
+                            {
+                                "x": 313,
+                                "y": 1202
+                            }
+                        ]
+                    },
+                    "confidence": 0.9846,
+                    "id": 44,
+                    "text": "cities"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 437,
+                                "y": 1164
+                            },
+                            {
+                                "x": 477,
+                                "y": 1164
+                            },
+                            {
+                                "x": 477,
+                                "y": 1202
+                            },
+                            {
+                                "x": 437,
+                                "y": 1202
+                            }
+                        ]
+                    },
+                    "confidence": 0.99,
+                    "id": 45,
+                    "text": "in"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 489,
+                                "y": 1165
+                            },
+                            {
+                                "x": 601,
+                                "y": 1165
+                            },
+                            {
+                                "x": 601,
+                                "y": 1202
+                            },
+                            {
+                                "x": 489,
+                                "y": 1202
+                            }
+                        ]
+                    },
+                    "confidence": 0.9971,
+                    "id": 46,
+                    "text": "USA:"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 642,
+                                "y": 1165
+                            },
+                            {
+                                "x": 808,
+                                "y": 1165
+                            },
+                            {
+                                "x": 808,
+                                "y": 1201
+                            },
+                            {
+                                "x": 642,
+                                "y": 1201
+                            }
+                        ]
+                    },
+                    "confidence": 0.9951,
+                    "id": 47,
+                    "text": "Atlanta"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 848,
+                                "y": 1175
+                            },
+                            {
+                                "x": 856,
+                                "y": 1175
+                            },
+                            {
+                                "x": 856,
+                                "y": 1200
+                            },
+                            {
+                                "x": 848,
+                                "y": 1200
+                            }
+                        ]
+                    },
+                    "confidence": 0.5365,
+                    "id": 48,
+                    "text": ""
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 901,
+                                "y": 1164
+                            },
+                            {
+                                "x": 1041,
+                                "y": 1164
+                            },
+                            {
+                                "x": 1041,
+                                "y": 1202
+                            },
+                            {
+                                "x": 901,
+                                "y": 1202
+                            }
+                        ]
+                    },
+                    "confidence": 0.9963,
+                    "id": 49,
+                    "text": "Dallas"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 93,
+                                "y": 1244
+                            },
+                            {
+                                "x": 320,
+                                "y": 1244
+                            },
+                            {
+                                "x": 320,
+                                "y": 1282
+                            },
+                            {
+                                "x": 93,
+                                "y": 1282
+                            }
+                        ]
+                    },
+                    "confidence": 0.996,
+                    "id": 50,
+                    "text": "Savannah"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 412,
+                                "y": 1243
+                            },
+                            {
+                                "x": 560,
+                                "y": 1243
+                            },
+                            {
+                                "x": 560,
+                                "y": 1281
+                            },
+                            {
+                                "x": 412,
+                                "y": 1281
+                            }
+                        ]
+                    },
+                    "confidence": 0.9961,
+                    "id": 51,
+                    "text": "Austin"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 655,
+                                "y": 1245
+                            },
+                            {
+                                "x": 847,
+                                "y": 1245
+                            },
+                            {
+                                "x": 847,
+                                "y": 1282
+                            },
+                            {
+                                "x": 655,
+                                "y": 1282
+                            }
+                        ]
+                    },
+                    "confidence": 0.9942,
+                    "id": 52,
+                    "text": "Houston"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 941,
+                                "y": 1243
+                            },
+                            {
+                                "x": 1078,
+                                "y": 1243
+                            },
+                            {
+                                "x": 1078,
+                                "y": 1282
+                            },
+                            {
+                                "x": 941,
+                                "y": 1282
+                            }
+                        ]
+                    },
+                    "confidence": 0.9935,
+                    "id": 53,
+                    "text": "Miami"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 94,
+                                "y": 1363
+                            },
+                            {
+                                "x": 290,
+                                "y": 1365
+                            },
+                            {
+                                "x": 290,
+                                "y": 1400
+                            },
+                            {
+                                "x": 94,
+                                "y": 1399
+                            }
+                        ]
+                    },
+                    "confidence": 0.9969,
+                    "id": 54,
+                    "text": "November"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 296,
+                                "y": 1366
+                            },
+                            {
+                                "x": 354,
+                                "y": 1366
+                            },
+                            {
+                                "x": 354,
+                                "y": 1404
+                            },
+                            {
+                                "x": 296,
+                                "y": 1404
+                            }
+                        ]
+                    },
+                    "confidence": 0.9963,
+                    "id": 55,
+                    "text": "18,"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 362,
+                                "y": 1365
+                            },
+                            {
+                                "x": 500,
+                                "y": 1365
+                            },
+                            {
+                                "x": 500,
+                                "y": 1400
+                            },
+                            {
+                                "x": 362,
+                                "y": 1400
+                            }
+                        ]
+                    },
+                    "confidence": 0.8454,
+                    "id": 56,
+                    "text": "2024-"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 517,
+                                "y": 1365
+                            },
+                            {
+                                "x": 607,
+                                "y": 1365
+                            },
+                            {
+                                "x": 607,
+                                "y": 1399
+                            },
+                            {
+                                "x": 517,
+                                "y": 1399
+                            }
+                        ]
+                    },
+                    "confidence": 0.998,
+                    "id": 57,
+                    "text": "Best"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 615,
+                                "y": 1364
+                            },
+                            {
+                                "x": 726,
+                                "y": 1364
+                            },
+                            {
+                                "x": 726,
+                                "y": 1399
+                            },
+                            {
+                                "x": 615,
+                                "y": 1399
+                            }
+                        ]
+                    },
+                    "confidence": 0.9967,
+                    "id": 58,
+                    "text": "Cities"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 735,
+                                "y": 1365
+                            },
+                            {
+                                "x": 783,
+                                "y": 1365
+                            },
+                            {
+                                "x": 783,
+                                "y": 1399
+                            },
+                            {
+                                "x": 735,
+                                "y": 1399
+                            }
+                        ]
+                    },
+                    "confidence": 0.9947,
+                    "id": 59,
+                    "text": "To"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 792,
+                                "y": 1364
+                            },
+                            {
+                                "x": 872,
+                                "y": 1364
+                            },
+                            {
+                                "x": 872,
+                                "y": 1399
+                            },
+                            {
+                                "x": 792,
+                                "y": 1399
+                            }
+                        ]
+                    },
+                    "confidence": 0.9958,
+                    "id": 60,
+                    "text": "Live"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 881,
+                                "y": 1365
+                            },
+                            {
+                                "x": 918,
+                                "y": 1366
+                            },
+                            {
+                                "x": 918,
+                                "y": 1399
+                            },
+                            {
+                                "x": 881,
+                                "y": 1399
+                            }
+                        ]
+                    },
+                    "confidence": 0.9863,
+                    "id": 61,
+                    "text": "In"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 929,
+                                "y": 1364
+                            },
+                            {
+                                "x": 1080,
+                                "y": 1364
+                            },
+                            {
+                                "x": 1080,
+                                "y": 1399
+                            },
+                            {
+                                "x": 929,
+                                "y": 1399
+                            }
+                        ]
+                    },
+                    "confidence": 0.997,
+                    "id": 62,
+                    "text": "Canada"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 190,
+                                "y": 1454
+                            },
+                            {
+                                "x": 361,
+                                "y": 1454
+                            },
+                            {
+                                "x": 361,
+                                "y": 1490
+                            },
+                            {
+                                "x": 190,
+                                "y": 1490
+                            }
+                        ]
+                    },
+                    "confidence": 0.9952,
+                    "id": 63,
+                    "text": "Madeline"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 369,
+                                "y": 1456
+                            },
+                            {
+                                "x": 509,
+                                "y": 1456
+                            },
+                            {
+                                "x": 509,
+                                "y": 1496
+                            },
+                            {
+                                "x": 369,
+                                "y": 1496
+                            }
+                        ]
+                    },
+                    "confidence": 0.9961,
+                    "id": 64,
+                    "text": "Forsyth"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 97,
+                                "y": 1607
+                            },
+                            {
+                                "x": 308,
+                                "y": 1607
+                            },
+                            {
+                                "x": 308,
+                                "y": 1684
+                            },
+                            {
+                                "x": 97,
+                                "y": 1684
+                            }
+                        ]
+                    },
+                    "confidence": 0.9886,
+                    "id": 65,
+                    "text": "This"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 338,
+                                "y": 1607
+                            },
+                            {
+                                "x": 702,
+                                "y": 1607
+                            },
+                            {
+                                "x": 702,
+                                "y": 1684
+                            },
+                            {
+                                "x": 338,
+                                "y": 1684
+                            }
+                        ]
+                    },
+                    "confidence": 0.9901,
+                    "id": 66,
+                    "text": "Ontario"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 728,
+                                "y": 1617
+                            },
+                            {
+                                "x": 950,
+                                "y": 1609
+                            },
+                            {
+                                "x": 953,
+                                "y": 1698
+                            },
+                            {
+                                "x": 731,
+                                "y": 1706
+                            }
+                        ]
+                    },
+                    "confidence": 0.9909,
+                    "id": 67,
+                    "text": "spot"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 972,
+                                "y": 1609
+                            },
+                            {
+                                "x": 1172,
+                                "y": 1608
+                            },
+                            {
+                                "x": 1172,
+                                "y": 1683
+                            },
+                            {
+                                "x": 972,
+                                "y": 1684
+                            }
+                        ]
+                    },
+                    "confidence": 0.9939,
+                    "id": 68,
+                    "text": "with"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 101,
+                                "y": 1734
+                            },
+                            {
+                                "x": 576,
+                                "y": 1733
+                            },
+                            {
+                                "x": 577,
+                                "y": 1828
+                            },
+                            {
+                                "x": 101,
+                                "y": 1829
+                            }
+                        ]
+                    },
+                    "confidence": 0.9929,
+                    "id": 69,
+                    "text": "European"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 607,
+                                "y": 1733
+                            },
+                            {
+                                "x": 911,
+                                "y": 1733
+                            },
+                            {
+                                "x": 911,
+                                "y": 1809
+                            },
+                            {
+                                "x": 607,
+                                "y": 1809
+                            }
+                        ]
+                    },
+                    "confidence": 0.9896,
+                    "id": 70,
+                    "text": "charm"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 940,
+                                "y": 1733
+                            },
+                            {
+                                "x": 1024,
+                                "y": 1733
+                            },
+                            {
+                                "x": 1025,
+                                "y": 1809
+                            },
+                            {
+                                "x": 941,
+                                "y": 1810
+                            }
+                        ]
+                    },
+                    "confidence": 0.9788,
+                    "id": 71,
+                    "text": "is"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 1052,
+                                "y": 1737
+                            },
+                            {
+                                "x": 1169,
+                                "y": 1739
+                            },
+                            {
+                                "x": 1168,
+                                "y": 1811
+                            },
+                            {
+                                "x": 1051,
+                                "y": 1809
+                            }
+                        ]
+                    },
+                    "confidence": 0.9902,
+                    "id": 72,
+                    "text": "on"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 99,
+                                "y": 1860
+                            },
+                            {
+                                "x": 562,
+                                "y": 1854
+                            },
+                            {
+                                "x": 563,
+                                "y": 1936
+                            },
+                            {
+                                "x": 100,
+                                "y": 1943
+                            }
+                        ]
+                    },
+                    "confidence": 0.9707,
+                    "id": 73,
+                    "text": "Canada's"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 585,
+                                "y": 1861
+                            },
+                            {
+                                "x": 748,
+                                "y": 1864
+                            },
+                            {
+                                "x": 746,
+                                "y": 1954
+                            },
+                            {
+                                "x": 584,
+                                "y": 1952
+                            }
+                        ]
+                    },
+                    "confidence": 0.9915,
+                    "id": 74,
+                    "text": "top"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 770,
+                                "y": 1858
+                            },
+                            {
+                                "x": 1174,
+                                "y": 1862
+                            },
+                            {
+                                "x": 1173,
+                                "y": 1955
+                            },
+                            {
+                                "x": 769,
+                                "y": 1950
+                            }
+                        ]
+                    },
+                    "confidence": 0.9881,
+                    "id": 75,
+                    "text": "trending"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 96,
+                                "y": 1987
+                            },
+                            {
+                                "x": 362,
+                                "y": 1987
+                            },
+                            {
+                                "x": 362,
+                                "y": 2063
+                            },
+                            {
+                                "x": 96,
+                                "y": 2063
+                            }
+                        ]
+                    },
+                    "confidence": 0.9869,
+                    "id": 76,
+                    "text": "cities"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 385,
+                                "y": 1985
+                            },
+                            {
+                                "x": 524,
+                                "y": 1985
+                            },
+                            {
+                                "x": 524,
+                                "y": 2062
+                            },
+                            {
+                                "x": 385,
+                                "y": 2062
+                            }
+                        ]
+                    },
+                    "confidence": 0.9904,
+                    "id": 77,
+                    "text": "for"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 545,
+                                "y": 1986
+                            },
+                            {
+                                "x": 898,
+                                "y": 1986
+                            },
+                            {
+                                "x": 898,
+                                "y": 2062
+                            },
+                            {
+                                "x": 545,
+                                "y": 2062
+                            }
+                        ]
+                    },
+                    "confidence": 0.9911,
+                    "id": 78,
+                    "text": "renters"
+                }
+            ]
+        }
+    ],
+    "stored": false,
+    "text": "Menu Newsletters \nNARCITY Log Subscribe \nSearch \nin \nReal Estate \nDiscover where to live right now. Narcity Real Esta \nhouses, trendy neighbourhoods, unique rentals, a \nfor your next move. \nBrowse by cities in Canada: Toronto Ottawa \n Vancouver  Calgary  Edmonton \nMontreal \nBrowse by cities in USA: Atlanta  Dallas \nSavannah Austin Houston Miami \nNovember 18, 2024- Best Cities To Live In Canada \nMadeline Forsyth \nThis Ontario spot with \nEuropean charm is on \nCanada's top trending \ncities for renters"
+}

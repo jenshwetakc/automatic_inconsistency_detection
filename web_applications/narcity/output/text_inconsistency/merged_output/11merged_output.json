@@ -1,0 +1,721 @@
+{
+    "contrast_check": [
+        {
+            "Mode": "light",
+            "Text": "\"",
+            "Text color one": [
+                138.0,
+                175.0,
+                99.0
+            ],
+            "contrast one": 1.0234990145097567,
+            "Text Color": [
+                234.0,
+                225.0,
+                208.0
+            ],
+            "Background Color": [
+                140.0,
+                172.0,
+                100.0
+            ],
+            "contrast threshold": 4.5,
+            "Contrast Ratio": 1.9730668678686882,
+            "Failure Category": "Color contrast issue",
+            "Bounding Box": [
+                983,
+                1744,
+                999,
+                1754
+            ]
+        },
+        {
+            "Mode": "light",
+            "Text": "DELTA",
+            "Text color one": [
+                90.0,
+                102.0,
+                120.0
+            ],
+            "contrast one": 1.1661261167532233,
+            "Text Color": [
+                73.0,
+                160.0,
+                244.0
+            ],
+            "Background Color": [
+                96.0,
+                112.0,
+                142.0
+            ],
+            "contrast threshold": 3.0,
+            "Contrast Ratio": 1.8113702990724339,
+            "Failure Category": "Color contrast issue",
+            "Bounding Box": [
+                239,
+                2327,
+                291,
+                2351
+            ]
+        },
+        {
+            "Mode": "dark",
+            "Text": "Jenna",
+            "Text color one": [
+                31.0,
+                31.0,
+                31.0
+            ],
+            "contrast one": 1.2740416609457939,
+            "Text Color": [
+                30.0,
+                30.0,
+                30.0
+            ],
+            "Background Color": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Contrast Ratio": 1.2596606468434601,
+            "Failure Reason": "text inconsistency",
+            "Failure Category": "Dark text on dark background",
+            "Bounding Box": [
+                126,
+                281,
+                267,
+                319
+            ]
+        },
+        {
+            "Mode": "dark",
+            "Text": "Kelley",
+            "Text color one": [
+                31.0,
+                31.0,
+                31.0
+            ],
+            "contrast one": 1.2740416609457939,
+            "Text Color": [
+                30.0,
+                30.0,
+                30.0
+            ],
+            "Background Color": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Contrast Ratio": 1.2596606468434601,
+            "Failure Reason": "text inconsistency",
+            "Failure Category": "Dark text on dark background",
+            "Bounding Box": [
+                274,
+                279,
+                415,
+                328
+            ]
+        },
+        {
+            "Mode": "dark",
+            "Text": "Brittany",
+            "Text color one": [
+                31.0,
+                31.0,
+                31.0
+            ],
+            "contrast one": 1.2740416609457939,
+            "Text Color": [
+                30.0,
+                30.0,
+                30.0
+            ],
+            "Background Color": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Contrast Ratio": 1.2596606468434601,
+            "Failure Reason": "text inconsistency",
+            "Failure Category": "Dark text on dark background",
+            "Bounding Box": [
+                125,
+                853,
+                306,
+                901
+            ]
+        },
+        {
+            "Mode": "dark",
+            "Text": "Cristiano",
+            "Text color one": [
+                31.0,
+                31.0,
+                31.0
+            ],
+            "contrast one": 1.2740416609457939,
+            "Text Color": [
+                30.0,
+                30.0,
+                30.0
+            ],
+            "Background Color": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Contrast Ratio": 1.2596606468434601,
+            "Failure Reason": "text inconsistency",
+            "Failure Category": "Dark text on dark background",
+            "Bounding Box": [
+                313,
+                853,
+                518,
+                893
+            ]
+        },
+        {
+            "Mode": "dark",
+            "Text": "Jenna",
+            "Text color one": [
+                31.0,
+                31.0,
+                31.0
+            ],
+            "contrast one": 1.2740416609457939,
+            "Text Color": [
+                30.0,
+                30.0,
+                30.0
+            ],
+            "Background Color": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Contrast Ratio": 1.2596606468434601,
+            "Failure Reason": "text inconsistency",
+            "Failure Category": "Dark text on dark background",
+            "Bounding Box": [
+                125,
+                1496,
+                267,
+                1535
+            ]
+        },
+        {
+            "Mode": "dark",
+            "Text": "Kelley",
+            "Text color one": [
+                31.0,
+                31.0,
+                31.0
+            ],
+            "contrast one": 1.2740416609457939,
+            "Text Color": [
+                30.0,
+                30.0,
+                30.0
+            ],
+            "Background Color": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Contrast Ratio": 1.2596606468434601,
+            "Failure Reason": "text inconsistency",
+            "Failure Category": "Dark text on dark background",
+            "Bounding Box": [
+                274,
+                1495,
+                415,
+                1543
+            ]
+        },
+        {
+            "Mode": "dark",
+            "Text": "Jenna",
+            "Text color one": [
+                31.0,
+                31.0,
+                31.0
+            ],
+            "contrast one": 1.2740416609457939,
+            "Text Color": [
+                30.0,
+                30.0,
+                30.0
+            ],
+            "Background Color": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Contrast Ratio": 1.2596606468434601,
+            "Failure Reason": "text inconsistency",
+            "Failure Category": "Dark text on dark background",
+            "Bounding Box": [
+                127,
+                2140,
+                267,
+                2177
+            ]
+        },
+        {
+            "Mode": "dark",
+            "Text": "Kelley",
+            "Text color one": [
+                31.0,
+                31.0,
+                31.0
+            ],
+            "contrast one": 1.2740416609457939,
+            "Text Color": [
+                30.0,
+                30.0,
+                30.0
+            ],
+            "Background Color": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Contrast Ratio": 1.2596606468434601,
+            "Failure Reason": "text inconsistency",
+            "Failure Category": "Dark text on dark background",
+            "Bounding Box": [
+                275,
+                2139,
+                414,
+                2185
+            ]
+        },
+        {
+            "Mode": "dark",
+            "Text": "Mobile",
+            "Text color one": [
+                232.0,
+                111.0,
+                183.0
+            ],
+            "contrast one": 1.0034196666506132,
+            "Text Color": [
+                244.0,
+                203.0,
+                238.0
+            ],
+            "Background Color": [
+                233.0,
+                111.0,
+                182.0
+            ],
+            "Contrast Ratio": 1.972435410696864,
+            "Failure Reason": "contrast ratio issue",
+            "Failure Category": "Color contrast issue",
+            "Bounding Box": [
+                184,
+                2362,
+                215,
+                2379
+            ]
+        }
+    ],
+    "missing_texts": [
+        {
+            "content": "May",
+            "bounding_box": [
+                7,
+                913,
+                75,
+                949
+            ]
+        },
+        {
+            "content": "14,",
+            "bounding_box": [
+                79,
+                913,
+                132,
+                949
+            ]
+        },
+        {
+            "content": "2023",
+            "bounding_box": [
+                136,
+                913,
+                221,
+                944
+            ]
+        },
+        {
+            "content": "People",
+            "bounding_box": [
+                8,
+                1034,
+                174,
+                1087
+            ]
+        },
+        {
+            "content": "Airline",
+            "bounding_box": [
+                87,
+                1145,
+                255,
+                1190
+            ]
+        },
+        {
+            "content": "Pushed",
+            "bounding_box": [
+                7,
+                1213,
+                203,
+                1264
+            ]
+        },
+        {
+            "content": "His",
+            "bounding_box": [
+                214,
+                1217,
+                298,
+                1260
+            ]
+        },
+        {
+            "content": "Way",
+            "bounding_box": [
+                307,
+                1217,
+                418,
+                1269
+            ]
+        },
+        {
+            "content": "Down",
+            "bounding_box": [
+                429,
+                1218,
+                575,
+                1262
+            ]
+        },
+        {
+            "content": "The",
+            "bounding_box": [
+                5,
+                1285,
+                106,
+                1331
+            ]
+        },
+        {
+            "content": "Aisle",
+            "bounding_box": [
+                114,
+                1285,
+                244,
+                1331
+            ]
+        },
+        {
+            "content": "Flight",
+            "bounding_box": [
+                390,
+                1286,
+                538,
+                1339
+            ]
+        },
+        {
+            "content": "TikTokers",
+            "bounding_box": [
+                594,
+                1285,
+                851,
+                1332
+            ]
+        },
+        {
+            "content": "Are",
+            "bounding_box": [
+                859,
+                1288,
+                950,
+                1330
+            ]
+        },
+        {
+            "content": "Him",
+            "bounding_box": [
+                282,
+                1356,
+                384,
+                1400
+            ]
+        },
+        {
+            "content": "Jenna",
+            "bounding_box": [
+                119,
+                1470,
+                260,
+                1511
+            ]
+        },
+        {
+            "content": "Kelley",
+            "bounding_box": [
+                269,
+                1468,
+                408,
+                1517
+            ]
+        },
+        {
+            "content": "May",
+            "bounding_box": [
+                7,
+                1542,
+                75,
+                1579
+            ]
+        },
+        {
+            "content": "12,",
+            "bounding_box": [
+                80,
+                1542,
+                132,
+                1578
+            ]
+        },
+        {
+            "content": "2023",
+            "bounding_box": [
+                136,
+                1542,
+                221,
+                1574
+            ]
+        },
+        {
+            "content": "Entertainment",
+            "bounding_box": [
+                8,
+                1665,
+                349,
+                1711
+            ]
+        },
+        {
+            "content": "Partied",
+            "bounding_box": [
+                35,
+                1774,
+                219,
+                1820
+            ]
+        },
+        {
+            "content": "The",
+            "bounding_box": [
+                295,
+                1775,
+                395,
+                1820
+            ]
+        },
+        {
+            "content": "Miami",
+            "bounding_box": [
+                405,
+                1773,
+                561,
+                1821
+            ]
+        },
+        {
+            "content": "Grand",
+            "bounding_box": [
+                9,
+                1844,
+                165,
+                1892
+            ]
+        },
+        {
+            "content": "Prix",
+            "bounding_box": [
+                177,
+                1844,
+                281,
+                1891
+            ]
+        },
+        {
+            "content": "With",
+            "bounding_box": [
+                288,
+                1845,
+                406,
+                1891
+            ]
+        },
+        {
+            "content": "Many",
+            "bounding_box": [
+                496,
+                1846,
+                636,
+                1899
+            ]
+        },
+        {
+            "content": "Stars",
+            "bounding_box": [
+                7,
+                1916,
+                144,
+                1962
+            ]
+        },
+        {
+            "content": "The",
+            "bounding_box": [
+                204,
+                1915,
+                304,
+                1960
+            ]
+        },
+        {
+            "content": "Celeb",
+            "bounding_box": [
+                313,
+                1914,
+                463,
+                1961
+            ]
+        },
+        {
+            "content": "Treatment",
+            "bounding_box": [
+                471,
+                1915,
+                738,
+                1961
+            ]
+        },
+        {
+            "content": "Lavish",
+            "bounding_box": [
+                802,
+                1914,
+                971,
+                1961
+            ]
+        },
+        {
+            "content": "(PHOTOS)",
+            "bounding_box": [
+                7,
+                1983,
+                276,
+                2039
+            ]
+        },
+        {
+            "content": "Jenna",
+            "bounding_box": [
+                119,
+                2101,
+                260,
+                2141
+            ]
+        },
+        {
+            "content": "Kelley",
+            "bounding_box": [
+                269,
+                2099,
+                408,
+                2148
+            ]
+        },
+        {
+            "content": "May",
+            "bounding_box": [
+                7,
+                2172,
+                75,
+                2210
+            ]
+        },
+        {
+            "content": "08,",
+            "bounding_box": [
+                79,
+                2173,
+                134,
+                2207
+            ]
+        },
+        {
+            "content": "2023",
+            "bounding_box": [
+                139,
+                2173,
+                223,
+                2204
+            ]
+        },
+        {
+            "content": "STADIUM",
+            "bounding_box": [
+                205,
+                2268,
+                285,
+                2302
+            ]
+        },
+        {
+            "content": "GATORADE",
+            "bounding_box": [
+                159,
+                2279,
+                222,
+                2305
+            ]
+        },
+        {
+            "content": "Mobile",
+            "bounding_box": [
+                189,
+                2312,
+                220,
+                2328
+            ]
+        },
+        {
+            "content": "STAR",
+            "bounding_box": [
+                483,
+                2323,
+                528,
+                2341
+            ]
+        },
+        {
+            "content": "DELTA",
+            "bounding_box": [
+                239,
+                2327,
+                291,
+                2351
+            ]
+        }
+    ]
+}

@@ -1,0 +1,321 @@
+[
+    {
+        "Mode": "light",
+        "Text": "\"",
+        "Text color one": [
+            138.0,
+            175.0,
+            99.0
+        ],
+        "contrast one": 1.0234990145097567,
+        "Text Color": [
+            234.0,
+            225.0,
+            208.0
+        ],
+        "Background Color": [
+            140.0,
+            172.0,
+            100.0
+        ],
+        "contrast threshold": 4.5,
+        "Contrast Ratio": 1.9730668678686882,
+        "Failure Category": "Color contrast issue",
+        "Bounding Box": [
+            983,
+            1744,
+            999,
+            1754
+        ]
+    },
+    {
+        "Mode": "light",
+        "Text": "DELTA",
+        "Text color one": [
+            90.0,
+            102.0,
+            120.0
+        ],
+        "contrast one": 1.1661261167532233,
+        "Text Color": [
+            73.0,
+            160.0,
+            244.0
+        ],
+        "Background Color": [
+            96.0,
+            112.0,
+            142.0
+        ],
+        "contrast threshold": 3.0,
+        "Contrast Ratio": 1.8113702990724339,
+        "Failure Category": "Color contrast issue",
+        "Bounding Box": [
+            239,
+            2327,
+            291,
+            2351
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "Jenna",
+        "Text color one": [
+            31.0,
+            31.0,
+            31.0
+        ],
+        "contrast one": 1.2740416609457939,
+        "Text Color": [
+            30.0,
+            30.0,
+            30.0
+        ],
+        "Background Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Contrast Ratio": 1.2596606468434601,
+        "Failure Reason": "text inconsistency",
+        "Failure Category": "Dark text on dark background",
+        "Bounding Box": [
+            126,
+            281,
+            267,
+            319
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "Kelley",
+        "Text color one": [
+            31.0,
+            31.0,
+            31.0
+        ],
+        "contrast one": 1.2740416609457939,
+        "Text Color": [
+            30.0,
+            30.0,
+            30.0
+        ],
+        "Background Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Contrast Ratio": 1.2596606468434601,
+        "Failure Reason": "text inconsistency",
+        "Failure Category": "Dark text on dark background",
+        "Bounding Box": [
+            274,
+            279,
+            415,
+            328
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "Brittany",
+        "Text color one": [
+            31.0,
+            31.0,
+            31.0
+        ],
+        "contrast one": 1.2740416609457939,
+        "Text Color": [
+            30.0,
+            30.0,
+            30.0
+        ],
+        "Background Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Contrast Ratio": 1.2596606468434601,
+        "Failure Reason": "text inconsistency",
+        "Failure Category": "Dark text on dark background",
+        "Bounding Box": [
+            125,
+            853,
+            306,
+            901
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "Cristiano",
+        "Text color one": [
+            31.0,
+            31.0,
+            31.0
+        ],
+        "contrast one": 1.2740416609457939,
+        "Text Color": [
+            30.0,
+            30.0,
+            30.0
+        ],
+        "Background Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Contrast Ratio": 1.2596606468434601,
+        "Failure Reason": "text inconsistency",
+        "Failure Category": "Dark text on dark background",
+        "Bounding Box": [
+            313,
+            853,
+            518,
+            893
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "Jenna",
+        "Text color one": [
+            31.0,
+            31.0,
+            31.0
+        ],
+        "contrast one": 1.2740416609457939,
+        "Text Color": [
+            30.0,
+            30.0,
+            30.0
+        ],
+        "Background Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Contrast Ratio": 1.2596606468434601,
+        "Failure Reason": "text inconsistency",
+        "Failure Category": "Dark text on dark background",
+        "Bounding Box": [
+            125,
+            1496,
+            267,
+            1535
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "Kelley",
+        "Text color one": [
+            31.0,
+            31.0,
+            31.0
+        ],
+        "contrast one": 1.2740416609457939,
+        "Text Color": [
+            30.0,
+            30.0,
+            30.0
+        ],
+        "Background Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Contrast Ratio": 1.2596606468434601,
+        "Failure Reason": "text inconsistency",
+        "Failure Category": "Dark text on dark background",
+        "Bounding Box": [
+            274,
+            1495,
+            415,
+            1543
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "Jenna",
+        "Text color one": [
+            31.0,
+            31.0,
+            31.0
+        ],
+        "contrast one": 1.2740416609457939,
+        "Text Color": [
+            30.0,
+            30.0,
+            30.0
+        ],
+        "Background Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Contrast Ratio": 1.2596606468434601,
+        "Failure Reason": "text inconsistency",
+        "Failure Category": "Dark text on dark background",
+        "Bounding Box": [
+            127,
+            2140,
+            267,
+            2177
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "Kelley",
+        "Text color one": [
+            31.0,
+            31.0,
+            31.0
+        ],
+        "contrast one": 1.2740416609457939,
+        "Text Color": [
+            30.0,
+            30.0,
+            30.0
+        ],
+        "Background Color": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Contrast Ratio": 1.2596606468434601,
+        "Failure Reason": "text inconsistency",
+        "Failure Category": "Dark text on dark background",
+        "Bounding Box": [
+            275,
+            2139,
+            414,
+            2185
+        ]
+    },
+    {
+        "Mode": "dark",
+        "Text": "Mobile",
+        "Text color one": [
+            232.0,
+            111.0,
+            183.0
+        ],
+        "contrast one": 1.0034196666506132,
+        "Text Color": [
+            244.0,
+            203.0,
+            238.0
+        ],
+        "Background Color": [
+            233.0,
+            111.0,
+            182.0
+        ],
+        "Contrast Ratio": 1.972435410696864,
+        "Failure Reason": "contrast ratio issue",
+        "Failure Category": "Color contrast issue",
+        "Bounding Box": [
+            184,
+            2362,
+            215,
+            2379
+        ]
+    }
+]

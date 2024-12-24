@@ -1,0 +1,63 @@
+{
+    "contrast_check": [
+        {
+            "Mode": "dark",
+            "Text": "Log",
+            "Text color one": [
+                22.0,
+                22.0,
+                22.0
+            ],
+            "contrast one": 1.1604638597077,
+            "Text Color": [
+                21.0,
+                21.0,
+                21.0
+            ],
+            "Background Color": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Contrast Ratio": 1.1499806408645235,
+            "Failure Reason": "text inconsistency",
+            "Failure Category": "Dark text on dark background",
+            "Bounding Box": [
+                703,
+                92,
+                796,
+                144
+            ]
+        },
+        {
+            "Mode": "dark",
+            "Text": "in",
+            "Text color one": [
+                22.0,
+                22.0,
+                22.0
+            ],
+            "contrast one": 1.1604638597077,
+            "Text Color": [
+                21.0,
+                21.0,
+                21.0
+            ],
+            "Background Color": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Contrast Ratio": 1.1499806408645235,
+            "Failure Reason": "text inconsistency",
+            "Failure Category": "Dark text on dark background",
+            "Bounding Box": [
+                725,
+                152,
+                769,
+                193
+            ]
+        }
+    ],
+    "missing_texts": []
+}

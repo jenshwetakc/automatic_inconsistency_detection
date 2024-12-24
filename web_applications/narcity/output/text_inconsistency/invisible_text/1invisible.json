@@ -1,0 +1,31 @@
+[
+    {
+        "Mode": "dark",
+        "Text": "dueb",
+        "Text color one": [
+            14.0,
+            21.0,
+            28.0
+        ],
+        "contrast one": 1.0103531407305562,
+        "Text Color": [
+            53.0,
+            68.0,
+            81.0
+        ],
+        "Background Color": [
+            16.0,
+            22.0,
+            29.0
+        ],
+        "Contrast Ratio": 1.8163484046811964,
+        "Failure Reason": "contrast ratio issue",
+        "Failure Category": "Color contrast issue",
+        "Bounding Box": [
+            1111,
+            1441,
+            1140,
+            1455
+        ]
+    }
+]

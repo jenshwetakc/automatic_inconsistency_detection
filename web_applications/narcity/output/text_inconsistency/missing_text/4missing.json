@@ -1,0 +1,155 @@
+[
+    {
+        "content": "CHISPION",
+        "bounding_box": [
+            903,
+            1522,
+            952,
+            1543
+        ]
+    },
+    {
+        "content": "Sponsored",
+        "bounding_box": [
+            0,
+            2140,
+            176,
+            2175
+        ]
+    },
+    {
+        "content": "Content",
+        "bounding_box": [
+            184,
+            2141,
+            315,
+            2177
+        ]
+    },
+    {
+        "content": "Things",
+        "bounding_box": [
+            311,
+            2151,
+            476,
+            2207
+        ]
+    },
+    {
+        "content": "This",
+        "bounding_box": [
+            1,
+            2293,
+            112,
+            2336
+        ]
+    },
+    {
+        "content": "Axe-Throwing",
+        "bounding_box": [
+            122,
+            2289,
+            484,
+            2346
+        ]
+    },
+    {
+        "content": "Spot",
+        "bounding_box": [
+            494,
+            2295,
+            616,
+            2347
+        ]
+    },
+    {
+        "content": "Will",
+        "bounding_box": [
+            627,
+            2294,
+            721,
+            2335
+        ]
+    },
+    {
+        "content": "Add",
+        "bounding_box": [
+            731,
+            2292,
+            836,
+            2337
+        ]
+    },
+    {
+        "content": "Extra",
+        "bounding_box": [
+            5,
+            2365,
+            138,
+            2407
+        ]
+    },
+    {
+        "content": "Edge",
+        "bounding_box": [
+            150,
+            2364,
+            283,
+            2417
+        ]
+    },
+    {
+        "content": "Your",
+        "bounding_box": [
+            365,
+            2366,
+            484,
+            2408
+        ]
+    },
+    {
+        "content": "Holiday",
+        "bounding_box": [
+            494,
+            2363,
+            689,
+            2417
+        ]
+    },
+    {
+        "content": "Parties",
+        "bounding_box": [
+            700,
+            2363,
+            881,
+            2410
+        ]
+    },
+    {
+        "content": "NMG",
+        "bounding_box": [
+            13,
+            2484,
+            76,
+            2511
+        ]
+    },
+    {
+        "content": "Narcity",
+        "bounding_box": [
+            114,
+            2476,
+            278,
+            2525
+        ]
+    },
+    {
+        "content": "Drive-Thru",
+        "bounding_box": [
+            287,
+            2478,
+            524,
+            2517
+        ]
+    }
+]
