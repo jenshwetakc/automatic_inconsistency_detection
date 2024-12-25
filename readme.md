@@ -2,7 +2,7 @@
 - python 
 
 Repository architecture
-![](/Users/shwetakc/Desktop/Screenshot 2024-12-25 at 6.24.30 PM.png)
+![](/Users/shwetakc/automatic_inconsistency_detection/directory.png)
 
 
 # Process to replicate the inconsistency detection 
