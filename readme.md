@@ -2,7 +2,14 @@
 - python 
 
 Repository architecture
-![](/Users/shwetakc/automatic_inconsistency_detection/directory.png)
+![project architecture](/Users/shwetakc/automatic_inconsistency_detection/directory.png)
+
+## Automatic inconsistency detection between light and dark mode 
+Our approach first collect the pair of screenshot using selenium script and 
+identify two types of discrepancies between the pairs:
+(1) Text inconsistency, which analyze (i) invisible text cause by poor contrast due to improper mapping of color and
+(ii) missing text that blend into background during conversion. 
+(2) Edge inconsistency, ensure the element like divider, text button border, icon border remain visible and consistent across both modes. 
 
 
 # Process to replicate the inconsistency detection 
