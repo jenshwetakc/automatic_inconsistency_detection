@@ -1,13 +1,9 @@
 
 '''
-# november 13
-## update the logic to check whether the button is clicked and whether the theme is switched or not?
-
+data collection for the application with toggle button
+Note: use the case you application url and based on the url choose the case number and run the script
 
 '''
-
-
-
 
 
 
@@ -21,21 +17,11 @@ Single Click
 2. Application: https://mega.io/ Case A-1.2
 3. Application: Applicaiton: https://www.tutorialspoint.com/index.htm Case A-1.3
 3. Application: https://www.op.gg/     - Case A-1.2
-4. Application: https://www.biobiochile.cl/ - Case A-1.4 added on november15 2024  todoo...
 5. Application: https://www.geeksforgeeks.org/ - Case A-1.5 
 7. Application: https://www.kakaocorp.com/page/ - Case A-1.7 
 8. Application:
-9. Application: https://www.newegg.com/  - Case A-1.9 (run on light mode first) -- hold todo
 10. Applicaiton: https://design.uzone.id/target-vs-walmart-home-goods-apparel-smackdown/?utm_source=campaign&utm_medium=boost    Case A-1.10(runs on light mode) 
-11. Applicaiton: https://www.binance.com/en - Case A-1.11, first runs on dark mode -- hold we are not able to find the menu button and click on it for mobile application 
 12. Application: https://www.hesport.com/ - Case A-1.12, application first runs on light mode,  runs on light mode 
-
-
-november 25 
-13. Application: https://www.espncricinfo.com/, - Case A-1.13, application start in light mode, when we perform action while changing into the dark mode we have to go back to the main page
-
-
-
 
 Application from dataforseo
 
@@ -44,15 +30,8 @@ Application from dataforseo
 3. Application: https://langeek.co/, Case D-1.3, application first runs on light mode 
 4. Appplication: https://globalnews.ca/, Case D-1.4, application first runs on dark mode 
 
-application: https://www.resetera.com/ Case D-1.8 application first runs on light mode ---- todo hold application doesnot change body or html tag for dark mode
-application: https://www.androidauthority.com/ Case D-1.9 application first runs on dark mode, done for mobile application 
 '''
 
-####
-###
-# Note: use the case you application url and based on the url choose the case number and run the script
-###
-###
 
 
 import logging
@@ -169,34 +148,6 @@ def is_dark_theme(driver):
         #     return False
         # Case A-1.3 end
 
-        # ## Case A-1.3 - tutorial points
-        # # html tag
-        # for web
-        # html_tag = driver.find_element(By.TAG_NAME, 'html')
-        # dark_theme_enabled = html_tag.get_attribute('class')
-        #
-        # if 'dark' in dark_theme_enabled:
-        #     print('Application is in dark mode.')
-        #     return True
-        # else:
-        #     print('Application is in light mode.')
-        #     return False
-        # ## Case A-1.3 end
-
-        #
-        # ##Case A-1.4 start
-        # ## for web
-        # body_tag = driver.find_element(By.TAG_NAME, 'body')
-        # dark_class_enabled = body_tag.get_attribute('class')
-        #
-        # if 'dark-mode' in dark_class_enabled:
-        #     print('dark_class_enabled', dark_class_enabled)
-        #     return True
-        # else:
-        #     print('Application is in light mode')
-        #     return False
-        # ##Case A-1.4 end
-
         # Case A-1.5 start
         # by using css_selector
         ###  Find the <div> element with class "root"
@@ -271,20 +222,6 @@ def is_dark_theme(driver):
         # Case A-1.8 end
 
 
-        # Case A-1.9 start
-        # html_tag = driver.find_element(By.TAG_NAME, 'html')
-        # dark_theme_enabled = html_tag.find_element('class')
-        # print('dark_theme_enabled', dark_theme_enabled)
-        #
-        # if dark_theme_enabled == 'dark-mode':
-        #     print('dark mode enabled')
-        #     return True
-        # else:
-        #     print('Application is in light mode')
-        #     return False
-        # Case A-1.9 end
-
-
         # # Case A-1.10 start
         # body_tag = driver.find_element(By.TAG_NAME, 'body')
         # dark_theme_enabled = body_tag.get_attribute('class')
@@ -298,20 +235,6 @@ def is_dark_theme(driver):
         #     print('application is in light mode')
         #     return False
         # # Case A-1.10 end
-
-        # # Case A-1.11 start
-        # body_tag = driver.find_element(By.TAG_NAME, 'body')
-        # dark_theme_enabled = body_tag.get_attribute('class')
-        # print(dark_theme_enabled)
-        #
-        # ##mobile
-        # if 'dark' in dark_theme_enabled:
-        #     print('dark_class_enabled', dark_theme_enabled)
-        #     return True
-        # else:
-        #     print('application is in light mode')
-        #     return False
-        # # Case A-1.11 end
 
         # # Case A-1.12 start
         # body_tag = driver.find_element(By.TAG_NAME, 'body')
@@ -327,41 +250,8 @@ def is_dark_theme(driver):
         #     return False
         # # Case A-1.12 end
 
-        print('Case A-1.13')
 
-       #  ##Case A-1.13 start
-       #  body_tag = driver.find_element(By.TAG_NAME, 'body')
-       #  # element = body_tag.find_element(By.CSS_SELECTOR, '[data-color-theme]')
-       #  # print(element)
-       #  print('body_tag', body_tag)
-       #  dark_theme_enabled = body_tag.get_attribute('data-color-theme')
-       #  print('dark_theme_enabled', dark_theme_enabled)
-       #
-       #  if 'dark' in dark_theme_enabled:
-       #      print('Application is in dark mode')
-       #      return True
-       #  else:
-       #      print('Application is in light mode')
-       #      return False
-       # ## Case A-1.13 start
 
-        print('Case A-1.14')
-
-         ##Case A-1.13 start
-        body_tag = driver.find_element(By.TAG_NAME, 'body')
-        # element = body_tag.find_element(By.CSS_SELECTOR, '[data-color-theme]')
-        # print(element)
-        print('body_tag', body_tag)
-        dark_theme_enabled = body_tag.get_attribute('data-md-color-scheme')
-        print('dark_theme_enabled', dark_theme_enabled)
-
-        if 'slate' in dark_theme_enabled:
-            print('Application is in dark mode')
-            return True
-        else:
-            print('Application is in light mode')
-            return False
-        ## Case A-1.13 start
 
 
 
@@ -381,7 +271,6 @@ def is_dark_theme(driver):
         # #
         # # # Case D-1.3 end
 
-        print('Case D-1.4 ')
         # ##Case D-1.4 start
         # body_tag = driver.find_element(By.TAG_NAME, 'body')
         # dark_class_enabled = body_tag.get_attribute('class')
@@ -396,20 +285,7 @@ def is_dark_theme(driver):
         #     return False
         # ##Case D-1.4 end
 
-        print('d-1.9')
-        # ##Case D-1.9 start
-        # body_tag = driver.find_element(By.TAG_NAME, 'body')
-        # dark_class_enabled = body_tag.get_attribute('class')
-        # print('dark enabled', dark_class_enabled)
-        #
-        #
-        # if 'd_a' in dark_class_enabled:
-        #     print('dark mode enabled')
-        #     return True
-        # else:
-        #     print('application is in light mode')
-        #     return False
-        # ##Case D-1.4 end
+
 
     except Exception as e:
         print(f"An error occurred while checking dark mode: {str(e)}")
@@ -468,13 +344,6 @@ def is_toggle_theme_button(driver):
         # # Case A-1.3 end
 
 
-
-        # Case A-1.4
-        # theme_toggle_button =driver.find_element(By.CLASS_NAME, 'nav-btn')
-        # print(theme_toggle_button)
-        # Case A-1.4
-
-
         # Case A-1.5 start
         # mobile-case
         # time.sleep(2)
@@ -528,32 +397,11 @@ def is_toggle_theme_button(driver):
         # toggle_button = driver.find_element(By.CLASS_NAME, 'mode-toggle')
         # Case A-1.8 end
 
-        # Case A-1.9 start
-        # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'toggle-m')
-        # print(theme_toggle_button)
-        # Case A-1.9 end
-
 
         # Case A-1.10 start
 
         # # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'darkmode-button')
         # # Case A-1.10 end
-        #
-        # # Case A-1.11 start
-        # menu_button = WebDriverWait(driver, 10).until(
-        #     EC.element_to_be_clickable((By.CLASS_NAME, 'bn-svg'))
-        # )
-        # print('menu_button', menu_button)
-
-        # not working for mobile
-
-        # for web
-
-        # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'theme-icon')
-        # print(theme_toggle_button)
-
-
-        # Case A-1.11 end
 
 
 
@@ -561,51 +409,6 @@ def is_toggle_theme_button(driver):
         # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'switch-mode')
         # print(theme_toggle_button)
         # Case A-1.12 end
-
-
-        #Case A-1.13 start
-        # menu_button = driver.find_element(By.CLASS_NAME, 'icon-settings-outlined')
-        # print(menu_button)
-        # time.sleep(2)
-        # driver.execute_script("arguments[0].click();", menu_button)
-        # menu_button.click()
-        #
-        # # not working second part
-        # time.sleep(15)
-        # print(menu_button)
-        # theme_toggle_button = driver.find_element((By.XPATH, "//i[contains(@class, 'icon-wb_sunny-outlined')]"))
-        #
-        #
-        # print("Popup container is visible.", theme_toggle_button)
-        #try 2
-
-        # menu_button = driver.find_element(By.CLASS_NAME, 'icon-settings-outlined')
-        #
-        # # Scroll to the button if necessary (optional, for visibility issues)
-        # ActionChains(driver).move_to_element(menu_button).perform()
-        #
-        # # Click the button
-        # menu_button.click()
-        #
-        # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'ds-mr-2')
-        # print('theme_toggle_button', theme_toggle_button)
-
-
-        # web
-        # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'icon-dark_mode-filled')
-        # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'md-icon')
-
-        #Case A-1.13 end
-
-        # Case A-1.14 start
-
-        # web
-        theme_toggle_button = driver.find_element(By.CLASS_NAME, 'md-header__button')
-        print(theme_toggle_button)
-        # Case A-1.14 end
-
-
-
 
         # # Case D-1.3 start
         # menu_button = driver.find_element(By.ID, 'menuButton')
@@ -621,33 +424,7 @@ def is_toggle_theme_button(driver):
         # theme_toggle_button = driver.find_element(By.ID, 'theme-toggle-desktop')
         #
         # # # Case D-1.4 end
-        #
-        # ## Case D-1.8 start
-        # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'p-nav-menuTrigger')
-        #
-        # ## Case D-1.8 end
 
-
-        # ## Case D-1.9 start
-        #
-        # # try 2
-        # # Locate using aria-label
-        # menu_button = driver.find_element(By.CSS_SELECTOR, 'button[aria-label="Show menu"]')
-        #
-        # # Scroll to the button if necessary (optional, for visibility issues)
-        # ActionChains(driver).move_to_element(menu_button).perform()
-        #
-        # # Click the button
-        # menu_button.click()
-        #
-        # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'd_Am')
-        # print('theme_toggle_button', theme_toggle_button)
-        #
-        # # close = driver.find_element(By.CLASS_NAME, 'd_im')
-        # # close.click()
-        #
-        #
-        # ## Case D-1.9 end
 
         if theme_toggle_button:
             return True
@@ -735,13 +512,6 @@ def toggle_to_dark(driver):
         # # Case A-1.3  end tutorial-point
 
 
-        # # Case A-1.4 start
-        # theme_toggle_button =driver.find_element(By.CLASS_NAME, 'nav-btn')
-        # driver.execute_script("arguments[0].scrollIntoView();", theme_toggle_button)
-        # theme_toggle_button.click()
-        #
-        # # Case A-1.4 end
-
 
         # # Case A-1.5
         # # mobile
@@ -813,19 +583,11 @@ def toggle_to_dark(driver):
         # Case A-1.7 end
 
 
-        # Case A-1.9 start
-        # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'toggle-m')
-        # print(theme_toggle_button)
-        # driver.execute_script("arguments[0].click();", theme_toggle_button)
-        # Case A-1.9 end
-
 
         # # Case A-1.8 start
         # toggle_button = driver.find_element(By.CLASS_NAME, 'darkmode-button')
         # toggle_button.click()
         # # Case A-1.8 start
-
-
 
         # Case A-1.8 started
         # mobile application
@@ -850,33 +612,11 @@ def toggle_to_dark(driver):
         #     return False
         # case A-1.8 started  end
 
-        # # Case A-1.11 start
-        # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'theme-icon')
-        # theme_toggle_button.click()
-        # # Case A-1.11 end
 
         # Case A-1.12 start
         # theme_toggle_button = driver.find_element(By.ID, 'nightMode')
         # theme_toggle_button.click()
         # Case A-1.12 end
-
-        print('a-1.12')
-
-        # # Case A-1.13 start
-        # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'icon-dark_mode-filled')
-        # ActionChains(driver).move_to_element(theme_toggle_button).perform()
-        # theme_toggle_button.click()
-        # # Case A-1.13 end
-
-
-        # Case A-1.13 start
-        theme_toggle_button = driver.find_element(By.CLASS_NAME, 'md-header__button')
-        driver.execute_script("arguments[0].click();", theme_toggle_button)
-        theme_toggle_button.click()
-        # Case A-1.13 end
-
-
-
 
         ####Dataforceo
 
@@ -896,34 +636,6 @@ def toggle_to_dark(driver):
         # print(toggle_button)
         # driver.execute_script("arguments[0].click();", toggle_button)
         # # ## Case D-1.4 start
-
-        print('d-1.9')
-
-        # ## Case D-1.9 start
-        #
-        # # try 2
-        # # Locate using aria-label
-        # menu_button = driver.find_element(By.CSS_SELECTOR, 'button[aria-label="Show menu"]')
-        #
-        # # Scroll to the button if necessary (optional, for visibility issues)
-        # ActionChains(driver).move_to_element(menu_button).perform()
-        #
-        # # Click the button
-        # menu_button.click()
-        # parent_div = driver.find_element(By.CSS_SELECTOR, 'div[data-popup="true"][role="button"]')
-        #
-        # # Locate the button within the parent div using aria-label
-        # theme_toggle_button = parent_div.find_element(By.CSS_SELECTOR, 'button[aria-label="Switch theme"]')
-        #
-        # # Scroll to the button if necessary
-        # ActionChains(driver).move_to_element(theme_toggle_button).perform()
-        # theme_toggle_button.click()
-        #
-        # close_popup = driver.find_element(By.CLASS_NAME, 'd_im')
-        # ActionChains(driver).move_to_element(close_popup).perform()
-        # close_popup.click()
-        #
-        # ## Case D-1.9 end
 
 
         ## check for all cases
@@ -1016,29 +728,6 @@ def toggle_to_light(driver):
         # driver.execute_script("arguments[0].click();", toggle_button)
         # # ## Case D-1.4 start
 
-        # ## Case D-1.9 start
-        # parent_div = driver.find_element(By.CSS_SELECTOR, 'div[data-popup="true"][role="button"]')
-        #
-        # # Locate the button within the parent div using aria-label
-        # theme_toggle_button = parent_div.find_element(By.CSS_SELECTOR, 'button[aria-label="Switch theme"]')
-        #
-        # # Scroll to the button if necessary
-        # ActionChains(driver).move_to_element(theme_toggle_button).perform()
-        # theme_toggle_button.click()
-        #
-        # close_popup = driver.find_element(By.CLASS_NAME, 'd_im')
-        # ActionChains(driver).move_to_element(close_popup).perform()
-        # close_popup.click()
-        #
-        #
-        # ## Case D-1.9 end
-
-        # # Case A-1.11 start
-        # theme_toggle_button = driver.find_element(By.CLASS_NAME, 'theme-icon')
-        # theme_toggle_button.click()
-        # # Case A-1.11 end
-
-        print('test', is_dark_theme(driver))
 
         if not is_dark_theme(driver):
             print('Switched to light mode.')
@@ -1046,9 +735,6 @@ def toggle_to_light(driver):
         else:
             print('Theme button clicked but mode did not changed.')
             return False
-    # except TimeoutException:
-    #     print("Theme-changing button not found.")
-    #     return False
     except Exception as e:
         print(f"An error occurred while toggling the theme: {str(e)}")
         return False
