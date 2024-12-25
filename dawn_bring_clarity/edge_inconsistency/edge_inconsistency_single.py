@@ -25,9 +25,9 @@ from scipy.spatial import cKDTree  # Efficient for nearest-neighbor search
 
 # Directory containing light and dark mode images
 # Load light and dark images
-light_image_path = 'path/to/light mode image'
-dark_image_path = 'path/to/dark mode image'
-output_dir = 'output/directory'
+light_image_path = 'path/to/automatic_inconsistency_detection/web_applications/dawn_bring_clarity/application_with_only_dark_mode/courseforge/input/courseforge/1light.png'
+dark_image_path = 'path/to/automatic_inconsistency_detection/web_applications/dawn_bring_clarity/application_with_only_dark_mode/courseforge/input/courseforge/1dark.png'
+output_dir = 'path/to/automatic_inconsistency_detection/web_applications/dawn_bring_clarity/application_with_only_dark_mode/courseforge/output/edge_inconsistency'
 
 DISTANCE_THRESHOLD = 3
 
@@ -122,4 +122,4 @@ plt.axis('off')
 plt.tight_layout()
 plt.show()
 
-print("single image  processing complete.")
+print("single image edge detection processing complete.")

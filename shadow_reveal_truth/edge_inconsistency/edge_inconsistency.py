@@ -131,4 +131,4 @@ for light_image_name, dark_image_name in zip(light_images, dark_images):
     plt.tight_layout()
     # plt.show()
 
-print("Batch processing complete.")
+print("Edge detection processing complete.")

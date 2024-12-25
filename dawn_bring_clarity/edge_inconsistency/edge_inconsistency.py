@@ -13,8 +13,8 @@ from scipy.spatial import cKDTree  # Efficient for nearest-neighbor search
 
 
 # Directory containing light and dark mode images
-input_dir = 'path/to/automatic_inconsistency_detection/web_applications/narcity/input/narcity'
-output_dir = 'path/to/output_directory'
+input_dir = 'path/to/automatic_inconsistency_detection/web_applications/dawn_bring_clarity/application_with_only_dark_mode/courseforge/input/courseforge'
+output_dir = 'path/to/automatic_inconsistency_detection/web_applications/dawn_bring_clarity/application_with_only_dark_mode/courseforge/output/edge_inconsistency'
 
 
 # Ensure output directory exists
@@ -127,4 +127,4 @@ for dark_image_name, light_image_name in zip(dark_images, light_images):
     plt.tight_layout()
     # plt.show()
 
-print("Batch processing complete.")
+print("Edge detection processing complete.")

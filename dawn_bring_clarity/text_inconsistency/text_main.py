@@ -141,9 +141,9 @@ def main():
 
 #*** october 22
 
-    image_dir = 'path/to/image(orginalscreenshot)'
-    json_dir = 'path/to/json file(output from ocr)'
-    output_dir = 'path/to/output/directory'
+    image_dir = 'path/to/automatic_inconsistency_detection/web_applications/dawn_bring_clarity/application_with_only_dark_mode/courseforge/input/courseforge'
+    json_dir = 'path/to/automatic_inconsistency_detection/web_applications/dawn_bring_clarity/application_with_only_dark_mode/courseforge/input/ocr'
+    output_dir = 'path/to/automatic_inconsistency_detection/web_applications/dawn_bring_clarity/application_with_only_dark_mode/courseforge/output/text_inconsistency'
 
     # Process the batch of images
     process_batch(image_dir, json_dir, output_dir)

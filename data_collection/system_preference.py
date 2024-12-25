@@ -61,10 +61,11 @@ USRPROFILE = '~/Library/Application Support/Google/Chrome/'
 
 
 url = "application url"
-extension_path = "path/to/Dark Mode - Night Eye - Chrome Web Store 5.2.2.0.crx"
-google_translate_path = "path/to/Google Translate - Chrome Web Store 2.0.16.0.crx"
-add_blocker_path = "path/to/AdBlock — block ads across the web - Chrome Web Store 6.11.1.0.crx"
-webdriver_path = "/Users/shwetakc/Embracing_dark/embracing_dark_side/data_collection/chromedriver"
+extension_path = "path/to/automatic_inconsistency_detection/data_collection/extension/Dark Mode - Night Eye - Chrome Web Store 5.2.2.0.crx"  # night eye extension to convert into the dark mode
+google_translate_path = "path/to/automatic_inconsistency_detection/data_collection/extension/Google Translate - Chrome Web Store 2.0.16.0.crx"
+add_blocker_path = "path/to/automatic_inconsistency_detection/data_collection/extension/AdBlock — block ads across the web - Chrome Web Store 6.11.1.0.crx"
+webdriver_path = "path/to/automatic_inconsistency_detection/data_collection/chromedriver"
+
 
 
 def setup_driver(extension_path=None):
@@ -316,7 +317,7 @@ def crawl_browser(driver, steps, folder,  previously_visited_urls=None):
     visited_urls = []
     domain = urlparse(url).netloc
     driver.get(url)
-    file_path = '/Users/shwetakc/Embracing_dark/embracing_dark_side/data_collection/screenshots_s/visited_urls.txt'
+    file_path = 'path/to/data_collection/screenshots_s/visited_urls.txt'
 
     try:
         for step in range(1, steps + 1):

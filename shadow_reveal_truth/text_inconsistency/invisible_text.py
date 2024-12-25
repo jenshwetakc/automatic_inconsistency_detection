@@ -100,8 +100,6 @@ def is_large_text(text_info) -> bool:
     """Check if the text is large based on the height of the bounding box."""
     x_min, y_min, x_max, y_max = extract_bounding_box(text_info)
     text_height = y_max -y_min
-    # print(text_info)
-    # print(text_height)
     large_text_threshold = 24  # Threshold for large text (e.g., 18-point or larger)
     return text_height >= large_text_threshold
 
@@ -160,14 +158,12 @@ def analyze_text_background_colors_hsl(text_color, background_color):
         return "Light text on light background"
     elif txt_brightness == "dark" and bg_brightness == "dark":
         return "Dark text on dark background"
-    # else:
-    #     return "Color contrast issue"
+
 
     # Check for color saturation issues (e.g., muted colors)
     text_saturation = hsl_text[1]
     background_saturation = hsl_background[1]
-    # print('saturation',text_saturation)
-    # print('background color',background_saturation)
+
     if text_saturation < 50 and background_saturation < 50:
         return "Low saturation - muted colors"
 
@@ -205,7 +201,6 @@ def check_contrast_and_draw_bounding_boxes(light_image, dark_image, light_texts,
     print('light mode')
     for page in light_texts['pages']:
         for text in page['words']:
-            # print(is_large_text(text))
 
             contrast_threshold = minimum_contrast_ratio_large if is_large_text(text) else minimum_contrast_ratio_normal
             std = calculate_std_deviation(light_image, text)
@@ -240,7 +235,6 @@ def check_contrast_and_draw_bounding_boxes(light_image, dark_image, light_texts,
                     new_text_color = convert_color_format(new_text_color_bgr)
                     new_ratio = get_contrast_ratio(new_text_color, background_color)
 
-                    # print("new text color",new_text_color)
 
                     if new_ratio < 1.5:
                         failure_category = analyze_text_background_colors_hsl(new_text_color, background_color)
@@ -329,10 +323,8 @@ def check_contrast_and_draw_bounding_boxes(light_image, dark_image, light_texts,
                         if text_content in light_mode_pass:
                             # If the text passed contrast in light mode but failed in dark mode, label as "text inconsistency"
                             light_contrast = light_mode_pass[text_content]["Contrast Ratio"]
-                            # print(light_contrast)
 
                             if light_contrast >= contrast_threshold:
-                                # if light_contrast > new_ratio:
                                     failure_reason = "text inconsistency"
                             else:
                                 failure_reason = "contrast ratio issue"
@@ -352,7 +344,6 @@ def check_contrast_and_draw_bounding_boxes(light_image, dark_image, light_texts,
                                 # Perform pixel comparison in the bounding box
                                 if light_text_entry:
                                     bbox_light = light_text_entry["Bounding Box"]
-                                    # print(light_text_entry)
 
                                     bbox_dark = extract_bounding_box(text)
                                     if compare_pixel_values(light_image, dark_image, bbox_light):
@@ -391,7 +382,6 @@ def check_contrast_and_draw_bounding_boxes(light_image, dark_image, light_texts,
     # Combine images for visualization and save
     combined_image = np.hstack((light_image, dark_image))
     cv2.imwrite(output_image_path, combined_image)
-    # print(output_image_path)
 
     if failed_texts:
         summary_data.append({
@@ -430,5 +420,4 @@ def invisible_text_inconsistency(light_image_path: str, dark_image_path: str, li
     dark_json_data = load_json(dark_json_path)
 
     summary_data = check_contrast_and_draw_bounding_boxes(light_img, dark_img, light_json_data, dark_json_data, output_image_path, output_json_path)
-    # print(summary_data)
     return summary_data

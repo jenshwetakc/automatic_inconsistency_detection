@@ -7,11 +7,11 @@ import numpy as np
 import os
 
 # Set your Upstage API key
-api_key = "api_key"
+api_key = "please enter your api key"
 
 # Path to the folder containing the images
-image_folder = "path to light and dark mode screenshot"
-output_folder = "path to output folder"  # Folder to save results
+image_folder = "path/to/automatic_inconsistency_detection/web_applications/shadow_reveal_truth/application_with_system_preferences/narcity/input/narcity"
+output_folder = "path/to/automatic_inconsistency_detection/web_applications/shadow_reveal_truth/application_with_system_preferences/narcity/input/ocr"  # Folder to save results
 
 
 # Make sure the output folder exists

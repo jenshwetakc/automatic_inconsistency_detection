@@ -56,10 +56,10 @@ USRPROFILE = '~/Library/Application Support/Google/Chrome/'
 
 url = "add application url "
 
-extension_path = "extension path"  # dark mode for web
-webdriver_path = "path/to/chromedriver"
-google_translate_path = "path/to/googletranslate"
-add_blocker_path = "path/to/addblocker"
+extension_path = "path/to/automatic_inconsistency_detection/data_collection/extension/Dark Mode - Night Eye - Chrome Web Store 5.2.2.0.crx"  # night eye extension to convert into the dark mode
+webdriver_path = "path/to/automatic_inconsistency_detection/data_collection/chromedriver"
+google_translate_path = "path/to/automatic_inconsistency_detection/data_collection/extension/Google Translate - Chrome Web Store 2.0.16.0.crx"
+add_blocker_path = "path/to/automatic_inconsistency_detection/data_collection/extension/AdBlock — block ads across the web - Chrome Web Store 6.11.1.0.crx"
 
 
 def setup_driver(extension_path=None):
@@ -384,7 +384,7 @@ def crawl_browser(driver, steps, folder,  previously_visited_urls=None):
     visited_urls = []
     domain = urlparse(url).netloc
     driver.get(url)
-    file_path = '/Users/shwetakc/Embracing_dark/Alexa/screenshots/visited_urls.txt'
+    file_path = 'path/to/screenshots/visited_urls.txt'
 
     def save_visited_urls(visited_urls, file_path):
         """Save the visited URLs to a file."""

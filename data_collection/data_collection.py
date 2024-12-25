@@ -48,6 +48,13 @@ application: https://www.resetera.com/ Case D-1.8 application first runs on ligh
 application: https://www.androidauthority.com/ Case D-1.9 application first runs on dark mode, done for mobile application 
 '''
 
+####
+###
+# Note: use the case you application url and based on the url choose the case number and run the script
+###
+###
+
+
 import logging
 import os
 import shutil
@@ -73,8 +80,9 @@ USRPROFILE = '~/Library/Application Support/Google/Chrome/'
 
 
 url = "application url"
-extension_path = "path/to/Dark Mode - Night Eye - Chrome Web Store 5.2.2.0.crx"
-webdriver_path = "path/tp/Selenium/projectOne/chromedriver"
+extension_path = "path/to/automatic_inconsistency_detection/data_collection/extension/Dark Mode - Night Eye - Chrome Web Store 5.2.2.0.crx"  # night eye extension to convert into the dark mode
+webdriver_path = "path/to/automatic_inconsistency_detection/data_collection/chromedriver"
+
 
 
 def setup_driver(extension_path=None):
@@ -1262,7 +1270,7 @@ def crawl_browser(driver, steps, folder,  previously_visited_urls=None):
     visited_urls = []
     domain = urlparse(url).netloc
     driver.get(url)
-    file_path = '/Users/shwetakc/Embracing_dark/Alexa/screenshots/visited_urls.txt'
+    file_path = 'path/to/screenshots/visited_urls.txt'
 
     try:
         for step in range(1, steps + 1):

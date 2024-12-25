@@ -34,7 +34,7 @@ Repository architecture
 ![project architecture](https://github.com/jenshwetakc/automatic_inconsistency_detection/blob/main/directory.png)
 
 
-## Collect the Dataset
+## Step 1: Collect the Dataset
 
 1. Collect Screenshots:
 

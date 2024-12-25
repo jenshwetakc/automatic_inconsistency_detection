@@ -55,8 +55,8 @@ def get_image_side_by_side(image_dir, output_dir):
     # return results  # Return list of saved image paths
 
 # for dark to light
-image_dir = '/path/to/your/image.png'
-output_dir = '/path/to/output/folder'
+image_dir = '/path/to/automatic_inconsistency_detection/web_applications/shadow_reveal_truth/application_with_system_preferences/narcity/input/narcity'
+output_dir = '/path/to/automatic_inconsistency_detection/web_applications/shadow_reveal_truth/application_with_system_preferences/narcity/input/side_by_side_visualization'
 
 # Run the batch process
 combine_image = get_image_side_by_side(image_dir, output_dir)

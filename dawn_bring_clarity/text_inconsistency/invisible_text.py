@@ -104,8 +104,6 @@ def is_large_text(text_info) -> bool:
     """Check if the text is large based on the height of the bounding box."""
     x_min, y_min, x_max, y_max = extract_bounding_box(text_info)
     text_height = y_max - y_min
-    # print(text_info)
-    # print(text_height)
     large_text_threshold = 24  # Threshold for large text (e.g., 18-point or larger)
     return text_height >= large_text_threshold
 
@@ -174,8 +172,6 @@ def analyze_text_background_colors_hsl(text_color, background_color):
     # Check for color saturation issues (e.g., muted colors)
     text_saturation = hsl_text[1]
     background_saturation = hsl_background[1]
-    # print('saturation',text_saturation)
-    # print('background color',background_saturation)
     if text_saturation < 50 and background_saturation < 50:
         return "Low saturation - muted colors"
 
@@ -213,7 +209,6 @@ def check_contrast_and_draw_bounding_boxes(light_image, dark_image, light_texts,
     print('dark mode')
     for page in dark_texts['pages']:
         for text in page['words']:
-            # print(is_large_text(text))
 
             contrast_threshold = minimum_contrast_ratio_large if is_large_text(text) else minimum_contrast_ratio_normal
             std = calculate_std_deviation(dark_image, text)
@@ -247,7 +242,6 @@ def check_contrast_and_draw_bounding_boxes(light_image, dark_image, light_texts,
                                              key=lambda color: euclidean_distance(background_color_bgr, color))
                     new_text_color = convert_color_format(new_text_color_bgr)
                     new_ratio = get_contrast_ratio(new_text_color, background_color)
-                    # print("new text color", new_text_color)
 
                     # If the new contrast ratio still fails
                     if new_ratio < 1.5:
@@ -308,9 +302,6 @@ def check_contrast_and_draw_bounding_boxes(light_image, dark_image, light_texts,
             if len(most_common_colors) >= 2:
                 background_color_bgr = most_common_colors[0][0]
                 text_color_bgr = most_common_colors[1][0]
-                # print(text_color)
-            # else:
-            #     print('no color found') # update this one later
 
             remaining_colors_bgr = most_common_colors[2:]
 
@@ -339,10 +330,8 @@ def check_contrast_and_draw_bounding_boxes(light_image, dark_image, light_texts,
                         if text_content in dark_mode_pass:
                             # If the text passed contrast in light mode but failed in dark mode, label as "text inconsistency"
                             light_contrast = dark_mode_pass[text_content]["Contrast Ratio"]
-                            # print(light_contrast)
 
                             if light_contrast >= contrast_threshold:
-                                # if light_contrast > new_ratio:
                                 failure_reason = "text inconsistency"
                             else:
                                 failure_reason = "contrast ratio issue"
@@ -370,7 +359,6 @@ def check_contrast_and_draw_bounding_boxes(light_image, dark_image, light_texts,
                                 # Perform pixel comparison in the bounding box
                                 if dark_text_entry:
                                     bbox_light = dark_text_entry["Bounding Box"]
-                                    # print(light_text_entry)
 
                                     bbox_dark = extract_bounding_box(text)
                                     if compare_pixel_values(light_image, dark_image, bbox_light):
