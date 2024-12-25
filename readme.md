@@ -1,6 +1,30 @@
 Requirement 
 
-Python requirement
+
+
+
+# Process to replicate the inconsistency detection 
+1. Start from scratch 
+   - Collect the dataset 
+   - Select the pair of screenshot 
+   - Run the detection 
+     - To check the inconsistency from light to dark mode conversion use directory shadow_reveal_truth
+     - To check the inconsistency for those application that only support dark mode and use extension to convert into light mode use directory dawn_bring_clarity 
+     
+2. Quick run
+   - select any application from the dataset 
+   - Edge detection: Run (path/to/automated_darklight_inconsistency_detection/shadow_reveal_truth/edge_inconsistency/edge_inconsistency.py)
+   
+     - input directory: (path/to/automated_darklight_inconsistency_detection/web_application/app_with_extension/dark_mode_for_web/buzzfeed/input/buzzfeed)
+     - output_directory: (path/to/automated_darklight_inconsistency_detection/web_application/app_with_extension/dark_mode_for_web/buzzfeed/output/edge_inconsistency)
+     
+   - Text_detection: (/automated_darklight_inconsistency_detection/shadow_reveal_truth/text_inconsistency/batch/text_main.py)
+     - input_directory:  (path/to/automated_darklight_inconsistency_detection/web_application/app_with_extension/dark_mode_for_web/buzzfeed/input/buzzfeed)
+     - json_directory:  (path/to/automated_darklight_inconsistency_detection/web_application/app_with_extension/dark_mode_for_web/buzzfeed/input/ocr)
+     - output_directory: path/to/automated_darklight_inconsistency_detection/web_application/app_with_extension/dark_mode_for_web/buzzfeed/output/text_inconsistency
+
+
+
 ## Collect the Dataset
 
 1. Collect Screenshots:
@@ -23,7 +47,7 @@ Python requirement
 1. Setup the Environment:
     - Add the URL of the web application to the script. 
     - Download the required .crx extension file and place it in the specified directory.
-2. Collect Data for Theme-Based Applications:
+2. Collect Data for system preference theme setting Applications:
    - For applications that change themes based on system settings :
    - Run the systempreference.py to capture screenshots in one mode.
    - Once the script complete the process in one mode, the script will stop for few second at that time manually change the system setting to the other mode.
