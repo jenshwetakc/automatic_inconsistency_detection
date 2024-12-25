@@ -1,9 +1,6 @@
 ## Requirement 
 - python 
 
-Repository architecture
-![project architecture](https://github.com/jenshwetakc/automatic_inconsistency_detection/blob/main/directory.png)
-
 ## Automatic inconsistency detection between light and dark mode 
 Our approach first collect the pair of screenshot using selenium script and 
 identify two types of discrepancies between the pairs:
@@ -32,6 +29,9 @@ identify two types of discrepancies between the pairs:
      - json_directory:  (path/to/automated_darklight_inconsistency_detection/web_application/app_with_extension/dark_mode_for_web/buzzfeed/input/ocr)
      - output_directory: path/to/automated_darklight_inconsistency_detection/web_application/app_with_extension/dark_mode_for_web/buzzfeed/output/text_inconsistency
 
+
+Repository architecture
+![project architecture](https://github.com/jenshwetakc/automatic_inconsistency_detection/blob/main/directory.png)
 
 
 ## Collect the Dataset
