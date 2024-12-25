@@ -1,0 +1,102 @@
+[
+    {
+        "file": "1",
+        "invisible_text_summary": [
+            {
+                "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/invisible_text/1invisible.png",
+                "Dark mode failed text": 0,
+                "Light mode failed text": 0
+            }
+        ]
+    },
+    {
+        "file": "10",
+        "invisible_text_summary": [
+            {
+                "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/invisible_text/10invisible.png",
+                "Dark mode failed text": 1,
+                "Light mode failed text": 0
+            }
+        ]
+    },
+    {
+        "file": "2",
+        "invisible_text_summary": [
+            {
+                "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/invisible_text/2invisible.png",
+                "Dark mode failed text": 0,
+                "Light mode failed text": 0
+            }
+        ]
+    },
+    {
+        "file": "3",
+        "invisible_text_summary": [
+            {
+                "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/invisible_text/3invisible.png",
+                "Dark mode failed text": 0,
+                "Light mode failed text": 1
+            }
+        ]
+    },
+    {
+        "file": "4",
+        "invisible_text_summary": [
+            {
+                "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/invisible_text/4invisible.png",
+                "Dark mode failed text": 0,
+                "Light mode failed text": 0
+            }
+        ]
+    },
+    {
+        "file": "5",
+        "invisible_text_summary": [
+            {
+                "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/invisible_text/5invisible.png",
+                "Dark mode failed text": 1,
+                "Light mode failed text": 0
+            }
+        ]
+    },
+    {
+        "file": "6",
+        "invisible_text_summary": [
+            {
+                "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/invisible_text/6invisible.png",
+                "Dark mode failed text": 0,
+                "Light mode failed text": 0
+            }
+        ]
+    },
+    {
+        "file": "7",
+        "invisible_text_summary": [
+            {
+                "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/invisible_text/7invisible.png",
+                "Dark mode failed text": 0,
+                "Light mode failed text": 0
+            }
+        ]
+    },
+    {
+        "file": "8",
+        "invisible_text_summary": [
+            {
+                "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/invisible_text/8invisible.png",
+                "Dark mode failed text": 0,
+                "Light mode failed text": 0
+            }
+        ]
+    },
+    {
+        "file": "9",
+        "invisible_text_summary": [
+            {
+                "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/invisible_text/9invisible.png",
+                "Dark mode failed text": 0,
+                "Light mode failed text": 0
+            }
+        ]
+    }
+]

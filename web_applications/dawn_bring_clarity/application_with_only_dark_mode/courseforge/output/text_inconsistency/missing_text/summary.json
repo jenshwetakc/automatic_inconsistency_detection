@@ -1,0 +1,72 @@
+[
+    {
+        "file": "1",
+        "missing_text_summary": {
+            "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/missing_text/1missing.json",
+            "missing_texts": 0
+        }
+    },
+    {
+        "file": "10",
+        "missing_text_summary": {
+            "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/missing_text/10missing.json",
+            "missing_texts": 0
+        }
+    },
+    {
+        "file": "2",
+        "missing_text_summary": {
+            "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/missing_text/2missing.json",
+            "missing_texts": 0
+        }
+    },
+    {
+        "file": "3",
+        "missing_text_summary": {
+            "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/missing_text/3missing.json",
+            "missing_texts": 1
+        }
+    },
+    {
+        "file": "4",
+        "missing_text_summary": {
+            "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/missing_text/4missing.json",
+            "missing_texts": 0
+        }
+    },
+    {
+        "file": "5",
+        "missing_text_summary": {
+            "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/missing_text/5missing.json",
+            "missing_texts": 1
+        }
+    },
+    {
+        "file": "6",
+        "missing_text_summary": {
+            "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/missing_text/6missing.json",
+            "missing_texts": 0
+        }
+    },
+    {
+        "file": "7",
+        "missing_text_summary": {
+            "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/missing_text/7missing.json",
+            "missing_texts": 0
+        }
+    },
+    {
+        "file": "8",
+        "missing_text_summary": {
+            "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/missing_text/8missing.json",
+            "missing_texts": 0
+        }
+    },
+    {
+        "file": "9",
+        "missing_text_summary": {
+            "file": "/Users/shwetakc/Embracing_dark/alexa_application/application_only_dark_mode/dark_mode_for_web/courseforge/output/text_inconsistency/missing_text/9missing.json",
+            "missing_texts": 1
+        }
+    }
+]

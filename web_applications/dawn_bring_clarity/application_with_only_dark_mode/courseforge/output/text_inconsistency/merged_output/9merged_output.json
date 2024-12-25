@@ -1,0 +1,21 @@
+{
+    "Inconsistency Detection": {
+        "Text_inconsistency": {
+            "Invisible Text": {
+                "failed_texts_dark": [],
+                "failed_texts_light": []
+            },
+            "missing_texts": [
+                {
+                    "content": "colour",
+                    "bounding_box": [
+                        320,
+                        440,
+                        366,
+                        455
+                    ]
+                }
+            ]
+        }
+    }
+}

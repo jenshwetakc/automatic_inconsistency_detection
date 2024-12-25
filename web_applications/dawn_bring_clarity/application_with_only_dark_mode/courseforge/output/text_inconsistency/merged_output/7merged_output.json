@@ -1,0 +1,11 @@
+{
+    "Inconsistency Detection": {
+        "Text_inconsistency": {
+            "Invisible Text": {
+                "failed_texts_dark": [],
+                "failed_texts_light": []
+            },
+            "missing_texts": []
+        }
+    }
+}

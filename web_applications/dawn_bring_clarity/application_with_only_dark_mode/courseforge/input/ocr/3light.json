@@ -1,0 +1,2079 @@
+{
+    "apiVersion": "1.1",
+    "confidence": 0.9866,
+    "metadata": {
+        "pages": [
+            {
+                "height": 2532,
+                "page": 1,
+                "width": 1170
+            }
+        ]
+    },
+    "mimeType": "multipart/form-data",
+    "modelVersion": "ocr-2.2.1",
+    "numBilledPages": 1,
+    "pages": [
+        {
+            "confidence": 0.9866,
+            "height": 2532,
+            "id": 0,
+            "text": "curseforge \n\u3078 \nBack to top \nBuilt by Overwolf. By downloading CurseForge you agree \nto Overwolf's Terms and Privacy Policy. \nThis site is operated under license from Electronic Arts \nInc. Trademarks are the property of their respective \nowners. Game materials copyright Electronic Arts Inc. \nand/or its licensors. Electronic Arts Inc. and its licensors \nWe use cookies to improve your experience \nand increase the relevancy of content when \nusing Overwolf. Our cookies are used for \nanalytics, optimization, and advertising \noperations. Learn more \nGot it",
+            "width": 1170,
+            "words": [
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 322,
+                                "y": 90
+                            },
+                            {
+                                "x": 615,
+                                "y": 90
+                            },
+                            {
+                                "x": 615,
+                                "y": 150
+                            },
+                            {
+                                "x": 322,
+                                "y": 150
+                            }
+                        ]
+                    },
+                    "confidence": 0.9939,
+                    "id": 0,
+                    "text": "curseforge"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 556,
+                                "y": 319
+                            },
+                            {
+                                "x": 611,
+                                "y": 317
+                            },
+                            {
+                                "x": 613,
+                                "y": 359
+                            },
+                            {
+                                "x": 558,
+                                "y": 361
+                            }
+                        ]
+                    },
+                    "confidence": 0.5514,
+                    "id": 1,
+                    "text": "\u3078"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 448,
+                                "y": 413
+                            },
+                            {
+                                "x": 570,
+                                "y": 413
+                            },
+                            {
+                                "x": 570,
+                                "y": 453
+                            },
+                            {
+                                "x": 448,
+                                "y": 453
+                            }
+                        ]
+                    },
+                    "confidence": 0.9985,
+                    "id": 2,
+                    "text": "Back"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 579,
+                                "y": 417
+                            },
+                            {
+                                "x": 630,
+                                "y": 417
+                            },
+                            {
+                                "x": 630,
+                                "y": 454
+                            },
+                            {
+                                "x": 578,
+                                "y": 453
+                            }
+                        ]
+                    },
+                    "confidence": 0.9976,
+                    "id": 3,
+                    "text": "to"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 640,
+                                "y": 417
+                            },
+                            {
+                                "x": 726,
+                                "y": 417
+                            },
+                            {
+                                "x": 726,
+                                "y": 463
+                            },
+                            {
+                                "x": 640,
+                                "y": 463
+                            }
+                        ]
+                    },
+                    "confidence": 0.9921,
+                    "id": 4,
+                    "text": "top"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 64,
+                                "y": 1536
+                            },
+                            {
+                                "x": 155,
+                                "y": 1536
+                            },
+                            {
+                                "x": 155,
+                                "y": 1572
+                            },
+                            {
+                                "x": 64,
+                                "y": 1572
+                            }
+                        ]
+                    },
+                    "confidence": 0.9969,
+                    "id": 5,
+                    "text": "Built"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 160,
+                                "y": 1536
+                            },
+                            {
+                                "x": 207,
+                                "y": 1537
+                            },
+                            {
+                                "x": 207,
+                                "y": 1577
+                            },
+                            {
+                                "x": 160,
+                                "y": 1577
+                            }
+                        ]
+                    },
+                    "confidence": 0.995,
+                    "id": 6,
+                    "text": "by"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 214,
+                                "y": 1536
+                            },
+                            {
+                                "x": 395,
+                                "y": 1536
+                            },
+                            {
+                                "x": 395,
+                                "y": 1572
+                            },
+                            {
+                                "x": 214,
+                                "y": 1572
+                            }
+                        ]
+                    },
+                    "confidence": 0.9936,
+                    "id": 7,
+                    "text": "Overwolf."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 402,
+                                "y": 1537
+                            },
+                            {
+                                "x": 451,
+                                "y": 1538
+                            },
+                            {
+                                "x": 451,
+                                "y": 1577
+                            },
+                            {
+                                "x": 401,
+                                "y": 1577
+                            }
+                        ]
+                    },
+                    "confidence": 0.9927,
+                    "id": 8,
+                    "text": "By"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 457,
+                                "y": 1536
+                            },
+                            {
+                                "x": 696,
+                                "y": 1536
+                            },
+                            {
+                                "x": 696,
+                                "y": 1578
+                            },
+                            {
+                                "x": 457,
+                                "y": 1578
+                            }
+                        ]
+                    },
+                    "confidence": 0.9966,
+                    "id": 9,
+                    "text": "downloading"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 702,
+                                "y": 1534
+                            },
+                            {
+                                "x": 920,
+                                "y": 1537
+                            },
+                            {
+                                "x": 920,
+                                "y": 1579
+                            },
+                            {
+                                "x": 702,
+                                "y": 1576
+                            }
+                        ]
+                    },
+                    "confidence": 0.9959,
+                    "id": 10,
+                    "text": "CurseForge"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 925,
+                                "y": 1544
+                            },
+                            {
+                                "x": 994,
+                                "y": 1544
+                            },
+                            {
+                                "x": 994,
+                                "y": 1578
+                            },
+                            {
+                                "x": 925,
+                                "y": 1578
+                            }
+                        ]
+                    },
+                    "confidence": 0.9968,
+                    "id": 11,
+                    "text": "you"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 1001,
+                                "y": 1545
+                            },
+                            {
+                                "x": 1108,
+                                "y": 1543
+                            },
+                            {
+                                "x": 1108,
+                                "y": 1579
+                            },
+                            {
+                                "x": 1001,
+                                "y": 1580
+                            }
+                        ]
+                    },
+                    "confidence": 0.9932,
+                    "id": 12,
+                    "text": "agree"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 224,
+                                "y": 1596
+                            },
+                            {
+                                "x": 266,
+                                "y": 1596
+                            },
+                            {
+                                "x": 266,
+                                "y": 1630
+                            },
+                            {
+                                "x": 223,
+                                "y": 1629
+                            }
+                        ]
+                    },
+                    "confidence": 0.998,
+                    "id": 13,
+                    "text": "to"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 274,
+                                "y": 1594
+                            },
+                            {
+                                "x": 479,
+                                "y": 1594
+                            },
+                            {
+                                "x": 479,
+                                "y": 1630
+                            },
+                            {
+                                "x": 274,
+                                "y": 1630
+                            }
+                        ]
+                    },
+                    "confidence": 0.9868,
+                    "id": 14,
+                    "text": "Overwolf's"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 484,
+                                "y": 1593
+                            },
+                            {
+                                "x": 599,
+                                "y": 1595
+                            },
+                            {
+                                "x": 598,
+                                "y": 1633
+                            },
+                            {
+                                "x": 483,
+                                "y": 1631
+                            }
+                        ]
+                    },
+                    "confidence": 0.9921,
+                    "id": 15,
+                    "text": "Terms"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 603,
+                                "y": 1595
+                            },
+                            {
+                                "x": 672,
+                                "y": 1594
+                            },
+                            {
+                                "x": 673,
+                                "y": 1631
+                            },
+                            {
+                                "x": 604,
+                                "y": 1632
+                            }
+                        ]
+                    },
+                    "confidence": 0.9965,
+                    "id": 16,
+                    "text": "and"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 681,
+                                "y": 1592
+                            },
+                            {
+                                "x": 823,
+                                "y": 1596
+                            },
+                            {
+                                "x": 822,
+                                "y": 1636
+                            },
+                            {
+                                "x": 680,
+                                "y": 1633
+                            }
+                        ]
+                    },
+                    "confidence": 0.9952,
+                    "id": 17,
+                    "text": "Privacy"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 826,
+                                "y": 1594
+                            },
+                            {
+                                "x": 946,
+                                "y": 1594
+                            },
+                            {
+                                "x": 946,
+                                "y": 1635
+                            },
+                            {
+                                "x": 826,
+                                "y": 1635
+                            }
+                        ]
+                    },
+                    "confidence": 0.9872,
+                    "id": 18,
+                    "text": "Policy."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 86,
+                                "y": 1653
+                            },
+                            {
+                                "x": 166,
+                                "y": 1653
+                            },
+                            {
+                                "x": 166,
+                                "y": 1690
+                            },
+                            {
+                                "x": 86,
+                                "y": 1690
+                            }
+                        ]
+                    },
+                    "confidence": 0.9993,
+                    "id": 19,
+                    "text": "This"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 170,
+                                "y": 1654
+                            },
+                            {
+                                "x": 240,
+                                "y": 1654
+                            },
+                            {
+                                "x": 240,
+                                "y": 1690
+                            },
+                            {
+                                "x": 170,
+                                "y": 1690
+                            }
+                        ]
+                    },
+                    "confidence": 0.9947,
+                    "id": 20,
+                    "text": "site"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 245,
+                                "y": 1655
+                            },
+                            {
+                                "x": 278,
+                                "y": 1655
+                            },
+                            {
+                                "x": 278,
+                                "y": 1691
+                            },
+                            {
+                                "x": 245,
+                                "y": 1691
+                            }
+                        ]
+                    },
+                    "confidence": 0.9914,
+                    "id": 21,
+                    "text": "is"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 283,
+                                "y": 1659
+                            },
+                            {
+                                "x": 452,
+                                "y": 1654
+                            },
+                            {
+                                "x": 454,
+                                "y": 1694
+                            },
+                            {
+                                "x": 284,
+                                "y": 1699
+                            }
+                        ]
+                    },
+                    "confidence": 0.9964,
+                    "id": 22,
+                    "text": "operated"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 460,
+                                "y": 1654
+                            },
+                            {
+                                "x": 572,
+                                "y": 1654
+                            },
+                            {
+                                "x": 572,
+                                "y": 1691
+                            },
+                            {
+                                "x": 460,
+                                "y": 1691
+                            }
+                        ]
+                    },
+                    "confidence": 0.9955,
+                    "id": 23,
+                    "text": "under"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 574,
+                                "y": 1654
+                            },
+                            {
+                                "x": 705,
+                                "y": 1654
+                            },
+                            {
+                                "x": 705,
+                                "y": 1691
+                            },
+                            {
+                                "x": 574,
+                                "y": 1691
+                            }
+                        ]
+                    },
+                    "confidence": 0.9924,
+                    "id": 24,
+                    "text": "license"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 709,
+                                "y": 1654
+                            },
+                            {
+                                "x": 801,
+                                "y": 1654
+                            },
+                            {
+                                "x": 801,
+                                "y": 1691
+                            },
+                            {
+                                "x": 709,
+                                "y": 1691
+                            }
+                        ]
+                    },
+                    "confidence": 0.9956,
+                    "id": 25,
+                    "text": "from"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 809,
+                                "y": 1653
+                            },
+                            {
+                                "x": 998,
+                                "y": 1653
+                            },
+                            {
+                                "x": 998,
+                                "y": 1691
+                            },
+                            {
+                                "x": 809,
+                                "y": 1691
+                            }
+                        ]
+                    },
+                    "confidence": 0.9968,
+                    "id": 26,
+                    "text": "Electronic"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 1002,
+                                "y": 1654
+                            },
+                            {
+                                "x": 1085,
+                                "y": 1654
+                            },
+                            {
+                                "x": 1085,
+                                "y": 1690
+                            },
+                            {
+                                "x": 1002,
+                                "y": 1690
+                            }
+                        ]
+                    },
+                    "confidence": 0.9978,
+                    "id": 27,
+                    "text": "Arts"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 114,
+                                "y": 1714
+                            },
+                            {
+                                "x": 181,
+                                "y": 1714
+                            },
+                            {
+                                "x": 181,
+                                "y": 1749
+                            },
+                            {
+                                "x": 114,
+                                "y": 1749
+                            }
+                        ]
+                    },
+                    "confidence": 0.9421,
+                    "id": 28,
+                    "text": "Inc."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 187,
+                                "y": 1713
+                            },
+                            {
+                                "x": 406,
+                                "y": 1713
+                            },
+                            {
+                                "x": 406,
+                                "y": 1750
+                            },
+                            {
+                                "x": 187,
+                                "y": 1750
+                            }
+                        ]
+                    },
+                    "confidence": 0.998,
+                    "id": 29,
+                    "text": "Trademarks"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 411,
+                                "y": 1719
+                            },
+                            {
+                                "x": 475,
+                                "y": 1719
+                            },
+                            {
+                                "x": 475,
+                                "y": 1750
+                            },
+                            {
+                                "x": 411,
+                                "y": 1750
+                            }
+                        ]
+                    },
+                    "confidence": 0.9988,
+                    "id": 30,
+                    "text": "are"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 481,
+                                "y": 1714
+                            },
+                            {
+                                "x": 544,
+                                "y": 1714
+                            },
+                            {
+                                "x": 544,
+                                "y": 1750
+                            },
+                            {
+                                "x": 481,
+                                "y": 1750
+                            }
+                        ]
+                    },
+                    "confidence": 0.9994,
+                    "id": 31,
+                    "text": "the"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 549,
+                                "y": 1718
+                            },
+                            {
+                                "x": 715,
+                                "y": 1715
+                            },
+                            {
+                                "x": 716,
+                                "y": 1755
+                            },
+                            {
+                                "x": 550,
+                                "y": 1758
+                            }
+                        ]
+                    },
+                    "confidence": 0.9953,
+                    "id": 32,
+                    "text": "property"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 720,
+                                "y": 1714
+                            },
+                            {
+                                "x": 762,
+                                "y": 1714
+                            },
+                            {
+                                "x": 763,
+                                "y": 1750
+                            },
+                            {
+                                "x": 720,
+                                "y": 1750
+                            }
+                        ]
+                    },
+                    "confidence": 0.9976,
+                    "id": 33,
+                    "text": "of"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 765,
+                                "y": 1713
+                            },
+                            {
+                                "x": 858,
+                                "y": 1713
+                            },
+                            {
+                                "x": 858,
+                                "y": 1750
+                            },
+                            {
+                                "x": 765,
+                                "y": 1750
+                            }
+                        ]
+                    },
+                    "confidence": 0.9982,
+                    "id": 34,
+                    "text": "their"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 862,
+                                "y": 1718
+                            },
+                            {
+                                "x": 1057,
+                                "y": 1713
+                            },
+                            {
+                                "x": 1058,
+                                "y": 1752
+                            },
+                            {
+                                "x": 863,
+                                "y": 1758
+                            }
+                        ]
+                    },
+                    "confidence": 0.9966,
+                    "id": 35,
+                    "text": "respective"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 94,
+                                "y": 1777
+                            },
+                            {
+                                "x": 242,
+                                "y": 1777
+                            },
+                            {
+                                "x": 242,
+                                "y": 1808
+                            },
+                            {
+                                "x": 94,
+                                "y": 1808
+                            }
+                        ]
+                    },
+                    "confidence": 0.9857,
+                    "id": 36,
+                    "text": "owners."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 247,
+                                "y": 1772
+                            },
+                            {
+                                "x": 359,
+                                "y": 1772
+                            },
+                            {
+                                "x": 359,
+                                "y": 1808
+                            },
+                            {
+                                "x": 247,
+                                "y": 1808
+                            }
+                        ]
+                    },
+                    "confidence": 0.9951,
+                    "id": 37,
+                    "text": "Game"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 366,
+                                "y": 1771
+                            },
+                            {
+                                "x": 539,
+                                "y": 1771
+                            },
+                            {
+                                "x": 539,
+                                "y": 1808
+                            },
+                            {
+                                "x": 366,
+                                "y": 1808
+                            }
+                        ]
+                    },
+                    "confidence": 0.9944,
+                    "id": 38,
+                    "text": "materials"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 543,
+                                "y": 1771
+                            },
+                            {
+                                "x": 723,
+                                "y": 1771
+                            },
+                            {
+                                "x": 723,
+                                "y": 1813
+                            },
+                            {
+                                "x": 543,
+                                "y": 1813
+                            }
+                        ]
+                    },
+                    "confidence": 0.9908,
+                    "id": 39,
+                    "text": "copyright"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 729,
+                                "y": 1771
+                            },
+                            {
+                                "x": 918,
+                                "y": 1771
+                            },
+                            {
+                                "x": 918,
+                                "y": 1808
+                            },
+                            {
+                                "x": 729,
+                                "y": 1808
+                            }
+                        ]
+                    },
+                    "confidence": 0.9961,
+                    "id": 40,
+                    "text": "Electronic"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 921,
+                                "y": 1770
+                            },
+                            {
+                                "x": 1004,
+                                "y": 1772
+                            },
+                            {
+                                "x": 1004,
+                                "y": 1808
+                            },
+                            {
+                                "x": 920,
+                                "y": 1806
+                            }
+                        ]
+                    },
+                    "confidence": 0.9973,
+                    "id": 41,
+                    "text": "Arts"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 1010,
+                                "y": 1771
+                            },
+                            {
+                                "x": 1076,
+                                "y": 1771
+                            },
+                            {
+                                "x": 1076,
+                                "y": 1807
+                            },
+                            {
+                                "x": 1010,
+                                "y": 1807
+                            }
+                        ]
+                    },
+                    "confidence": 0.9415,
+                    "id": 42,
+                    "text": "Inc."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 79,
+                                "y": 1829
+                            },
+                            {
+                                "x": 204,
+                                "y": 1829
+                            },
+                            {
+                                "x": 204,
+                                "y": 1867
+                            },
+                            {
+                                "x": 79,
+                                "y": 1867
+                            }
+                        ]
+                    },
+                    "confidence": 0.9948,
+                    "id": 43,
+                    "text": "and/or"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 207,
+                                "y": 1830
+                            },
+                            {
+                                "x": 256,
+                                "y": 1830
+                            },
+                            {
+                                "x": 256,
+                                "y": 1866
+                            },
+                            {
+                                "x": 207,
+                                "y": 1866
+                            }
+                        ]
+                    },
+                    "confidence": 0.9877,
+                    "id": 44,
+                    "text": "its"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 260,
+                                "y": 1829
+                            },
+                            {
+                                "x": 436,
+                                "y": 1830
+                            },
+                            {
+                                "x": 436,
+                                "y": 1867
+                            },
+                            {
+                                "x": 260,
+                                "y": 1866
+                            }
+                        ]
+                    },
+                    "confidence": 0.9827,
+                    "id": 45,
+                    "text": "licensors."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 443,
+                                "y": 1829
+                            },
+                            {
+                                "x": 633,
+                                "y": 1829
+                            },
+                            {
+                                "x": 633,
+                                "y": 1866
+                            },
+                            {
+                                "x": 443,
+                                "y": 1866
+                            }
+                        ]
+                    },
+                    "confidence": 0.9959,
+                    "id": 46,
+                    "text": "Electronic"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 635,
+                                "y": 1829
+                            },
+                            {
+                                "x": 719,
+                                "y": 1831
+                            },
+                            {
+                                "x": 719,
+                                "y": 1867
+                            },
+                            {
+                                "x": 634,
+                                "y": 1866
+                            }
+                        ]
+                    },
+                    "confidence": 0.9968,
+                    "id": 47,
+                    "text": "Arts"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 724,
+                                "y": 1830
+                            },
+                            {
+                                "x": 791,
+                                "y": 1830
+                            },
+                            {
+                                "x": 791,
+                                "y": 1866
+                            },
+                            {
+                                "x": 724,
+                                "y": 1866
+                            }
+                        ]
+                    },
+                    "confidence": 0.9317,
+                    "id": 48,
+                    "text": "Inc."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 796,
+                                "y": 1829
+                            },
+                            {
+                                "x": 866,
+                                "y": 1829
+                            },
+                            {
+                                "x": 866,
+                                "y": 1866
+                            },
+                            {
+                                "x": 796,
+                                "y": 1866
+                            }
+                        ]
+                    },
+                    "confidence": 0.9967,
+                    "id": 49,
+                    "text": "and"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 871,
+                                "y": 1830
+                            },
+                            {
+                                "x": 921,
+                                "y": 1830
+                            },
+                            {
+                                "x": 921,
+                                "y": 1866
+                            },
+                            {
+                                "x": 871,
+                                "y": 1866
+                            }
+                        ]
+                    },
+                    "confidence": 0.9883,
+                    "id": 50,
+                    "text": "its"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 925,
+                                "y": 1829
+                            },
+                            {
+                                "x": 1092,
+                                "y": 1830
+                            },
+                            {
+                                "x": 1092,
+                                "y": 1867
+                            },
+                            {
+                                "x": 925,
+                                "y": 1866
+                            }
+                        ]
+                    },
+                    "confidence": 0.9898,
+                    "id": 51,
+                    "text": "licensors"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 99,
+                                "y": 1982
+                            },
+                            {
+                                "x": 172,
+                                "y": 1982
+                            },
+                            {
+                                "x": 172,
+                                "y": 2018
+                            },
+                            {
+                                "x": 99,
+                                "y": 2018
+                            }
+                        ]
+                    },
+                    "confidence": 0.9977,
+                    "id": 52,
+                    "text": "We"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 186,
+                                "y": 1988
+                            },
+                            {
+                                "x": 264,
+                                "y": 1988
+                            },
+                            {
+                                "x": 264,
+                                "y": 2019
+                            },
+                            {
+                                "x": 186,
+                                "y": 2019
+                            }
+                        ]
+                    },
+                    "confidence": 0.9989,
+                    "id": 53,
+                    "text": "use"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 275,
+                                "y": 1980
+                            },
+                            {
+                                "x": 446,
+                                "y": 1980
+                            },
+                            {
+                                "x": 446,
+                                "y": 2019
+                            },
+                            {
+                                "x": 275,
+                                "y": 2019
+                            }
+                        ]
+                    },
+                    "confidence": 0.9951,
+                    "id": 54,
+                    "text": "cookies"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 455,
+                                "y": 1984
+                            },
+                            {
+                                "x": 504,
+                                "y": 1985
+                            },
+                            {
+                                "x": 503,
+                                "y": 2020
+                            },
+                            {
+                                "x": 455,
+                                "y": 2019
+                            }
+                        ]
+                    },
+                    "confidence": 0.9959,
+                    "id": 55,
+                    "text": "to"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 512,
+                                "y": 1980
+                            },
+                            {
+                                "x": 702,
+                                "y": 1978
+                            },
+                            {
+                                "x": 702,
+                                "y": 2027
+                            },
+                            {
+                                "x": 513,
+                                "y": 2029
+                            }
+                        ]
+                    },
+                    "confidence": 0.9947,
+                    "id": 56,
+                    "text": "improve"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 709,
+                                "y": 1987
+                            },
+                            {
+                                "x": 815,
+                                "y": 1985
+                            },
+                            {
+                                "x": 815,
+                                "y": 2025
+                            },
+                            {
+                                "x": 709,
+                                "y": 2027
+                            }
+                        ]
+                    },
+                    "confidence": 0.9941,
+                    "id": 57,
+                    "text": "your"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 823,
+                                "y": 1981
+                            },
+                            {
+                                "x": 1073,
+                                "y": 1979
+                            },
+                            {
+                                "x": 1073,
+                                "y": 2025
+                            },
+                            {
+                                "x": 823,
+                                "y": 2027
+                            }
+                        ]
+                    },
+                    "confidence": 0.9937,
+                    "id": 58,
+                    "text": "experience"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 93,
+                                "y": 2049
+                            },
+                            {
+                                "x": 180,
+                                "y": 2047
+                            },
+                            {
+                                "x": 180,
+                                "y": 2086
+                            },
+                            {
+                                "x": 93,
+                                "y": 2088
+                            }
+                        ]
+                    },
+                    "confidence": 0.9982,
+                    "id": 59,
+                    "text": "and"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 192,
+                                "y": 2048
+                            },
+                            {
+                                "x": 381,
+                                "y": 2048
+                            },
+                            {
+                                "x": 381,
+                                "y": 2087
+                            },
+                            {
+                                "x": 192,
+                                "y": 2087
+                            }
+                        ]
+                    },
+                    "confidence": 0.9967,
+                    "id": 60,
+                    "text": "increase"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 389,
+                                "y": 2049
+                            },
+                            {
+                                "x": 468,
+                                "y": 2048
+                            },
+                            {
+                                "x": 469,
+                                "y": 2086
+                            },
+                            {
+                                "x": 390,
+                                "y": 2088
+                            }
+                        ]
+                    },
+                    "confidence": 0.9996,
+                    "id": 61,
+                    "text": "the"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 479,
+                                "y": 2046
+                            },
+                            {
+                                "x": 698,
+                                "y": 2049
+                            },
+                            {
+                                "x": 697,
+                                "y": 2096
+                            },
+                            {
+                                "x": 478,
+                                "y": 2093
+                            }
+                        ]
+                    },
+                    "confidence": 0.991,
+                    "id": 62,
+                    "text": "relevancy"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 704,
+                                "y": 2048
+                            },
+                            {
+                                "x": 753,
+                                "y": 2048
+                            },
+                            {
+                                "x": 753,
+                                "y": 2087
+                            },
+                            {
+                                "x": 704,
+                                "y": 2086
+                            }
+                        ]
+                    },
+                    "confidence": 0.9961,
+                    "id": 63,
+                    "text": "of"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 761,
+                                "y": 2050
+                            },
+                            {
+                                "x": 940,
+                                "y": 2050
+                            },
+                            {
+                                "x": 940,
+                                "y": 2087
+                            },
+                            {
+                                "x": 761,
+                                "y": 2087
+                            }
+                        ]
+                    },
+                    "confidence": 0.9984,
+                    "id": 64,
+                    "text": "content"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 949,
+                                "y": 2048
+                            },
+                            {
+                                "x": 1076,
+                                "y": 2048
+                            },
+                            {
+                                "x": 1076,
+                                "y": 2086
+                            },
+                            {
+                                "x": 949,
+                                "y": 2086
+                            }
+                        ]
+                    },
+                    "confidence": 0.996,
+                    "id": 65,
+                    "text": "when"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 132,
+                                "y": 2114
+                            },
+                            {
+                                "x": 258,
+                                "y": 2114
+                            },
+                            {
+                                "x": 258,
+                                "y": 2163
+                            },
+                            {
+                                "x": 132,
+                                "y": 2163
+                            }
+                        ]
+                    },
+                    "confidence": 0.9916,
+                    "id": 66,
+                    "text": "using"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 271,
+                                "y": 2114
+                            },
+                            {
+                                "x": 482,
+                                "y": 2114
+                            },
+                            {
+                                "x": 482,
+                                "y": 2155
+                            },
+                            {
+                                "x": 271,
+                                "y": 2155
+                            }
+                        ]
+                    },
+                    "confidence": 0.9864,
+                    "id": 67,
+                    "text": "Overwolf."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 494,
+                                "y": 2116
+                            },
+                            {
+                                "x": 581,
+                                "y": 2116
+                            },
+                            {
+                                "x": 581,
+                                "y": 2154
+                            },
+                            {
+                                "x": 494,
+                                "y": 2154
+                            }
+                        ]
+                    },
+                    "confidence": 0.9615,
+                    "id": 68,
+                    "text": "Our"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 590,
+                                "y": 2115
+                            },
+                            {
+                                "x": 762,
+                                "y": 2115
+                            },
+                            {
+                                "x": 762,
+                                "y": 2155
+                            },
+                            {
+                                "x": 590,
+                                "y": 2155
+                            }
+                        ]
+                    },
+                    "confidence": 0.995,
+                    "id": 69,
+                    "text": "cookies"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 771,
+                                "y": 2122
+                            },
+                            {
+                                "x": 844,
+                                "y": 2122
+                            },
+                            {
+                                "x": 844,
+                                "y": 2155
+                            },
+                            {
+                                "x": 771,
+                                "y": 2155
+                            }
+                        ]
+                    },
+                    "confidence": 0.9986,
+                    "id": 70,
+                    "text": "are"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 855,
+                                "y": 2116
+                            },
+                            {
+                                "x": 964,
+                                "y": 2115
+                            },
+                            {
+                                "x": 965,
+                                "y": 2155
+                            },
+                            {
+                                "x": 856,
+                                "y": 2156
+                            }
+                        ]
+                    },
+                    "confidence": 0.9969,
+                    "id": 71,
+                    "text": "used"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 974,
+                                "y": 2115
+                            },
+                            {
+                                "x": 1039,
+                                "y": 2115
+                            },
+                            {
+                                "x": 1039,
+                                "y": 2154
+                            },
+                            {
+                                "x": 974,
+                                "y": 2154
+                            }
+                        ]
+                    },
+                    "confidence": 0.9925,
+                    "id": 72,
+                    "text": "for"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 143,
+                                "y": 2181
+                            },
+                            {
+                                "x": 355,
+                                "y": 2181
+                            },
+                            {
+                                "x": 355,
+                                "y": 2230
+                            },
+                            {
+                                "x": 143,
+                                "y": 2230
+                            }
+                        ]
+                    },
+                    "confidence": 0.9945,
+                    "id": 73,
+                    "text": "analytics,"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 363,
+                                "y": 2181
+                            },
+                            {
+                                "x": 665,
+                                "y": 2181
+                            },
+                            {
+                                "x": 665,
+                                "y": 2231
+                            },
+                            {
+                                "x": 363,
+                                "y": 2231
+                            }
+                        ]
+                    },
+                    "confidence": 0.9953,
+                    "id": 74,
+                    "text": "optimization,"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 672,
+                                "y": 2184
+                            },
+                            {
+                                "x": 759,
+                                "y": 2183
+                            },
+                            {
+                                "x": 760,
+                                "y": 2222
+                            },
+                            {
+                                "x": 673,
+                                "y": 2223
+                            }
+                        ]
+                    },
+                    "confidence": 0.9984,
+                    "id": 75,
+                    "text": "and"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 771,
+                                "y": 2182
+                            },
+                            {
+                                "x": 1025,
+                                "y": 2182
+                            },
+                            {
+                                "x": 1025,
+                                "y": 2231
+                            },
+                            {
+                                "x": 771,
+                                "y": 2231
+                            }
+                        ]
+                    },
+                    "confidence": 0.9897,
+                    "id": 76,
+                    "text": "advertising"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 323,
+                                "y": 2252
+                            },
+                            {
+                                "x": 576,
+                                "y": 2248
+                            },
+                            {
+                                "x": 577,
+                                "y": 2295
+                            },
+                            {
+                                "x": 324,
+                                "y": 2299
+                            }
+                        ]
+                    },
+                    "confidence": 0.9877,
+                    "id": 77,
+                    "text": "operations."
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 585,
+                                "y": 2252
+                            },
+                            {
+                                "x": 714,
+                                "y": 2252
+                            },
+                            {
+                                "x": 714,
+                                "y": 2292
+                            },
+                            {
+                                "x": 585,
+                                "y": 2292
+                            }
+                        ]
+                    },
+                    "confidence": 0.9934,
+                    "id": 78,
+                    "text": "Learn"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 728,
+                                "y": 2258
+                            },
+                            {
+                                "x": 847,
+                                "y": 2258
+                            },
+                            {
+                                "x": 847,
+                                "y": 2291
+                            },
+                            {
+                                "x": 728,
+                                "y": 2291
+                            }
+                        ]
+                    },
+                    "confidence": 0.985,
+                    "id": 79,
+                    "text": "more"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 520,
+                                "y": 2393
+                            },
+                            {
+                                "x": 605,
+                                "y": 2393
+                            },
+                            {
+                                "x": 605,
+                                "y": 2431
+                            },
+                            {
+                                "x": 520,
+                                "y": 2431
+                            }
+                        ]
+                    },
+                    "confidence": 0.9939,
+                    "id": 80,
+                    "text": "Got"
+                },
+                {
+                    "boundingBox": {
+                        "vertices": [
+                            {
+                                "x": 614,
+                                "y": 2392
+                            },
+                            {
+                                "x": 651,
+                                "y": 2391
+                            },
+                            {
+                                "x": 652,
+                                "y": 2430
+                            },
+                            {
+                                "x": 615,
+                                "y": 2431
+                            }
+                        ]
+                    },
+                    "confidence": 0.9911,
+                    "id": 81,
+                    "text": "it"
+                }
+            ]
+        }
+    ],
+    "stored": false,
+    "text": "curseforge \n\u3078 \nBack to top \nBuilt by Overwolf. By downloading CurseForge you agree \nto Overwolf's Terms and Privacy Policy. \nThis site is operated under license from Electronic Arts \nInc. Trademarks are the property of their respective \nowners. Game materials copyright Electronic Arts Inc. \nand/or its licensors. Electronic Arts Inc. and its licensors \nWe use cookies to improve your experience \nand increase the relevancy of content when \nusing Overwolf. Our cookies are used for \nanalytics, optimization, and advertising \noperations. Learn more \nGot it"
+}
