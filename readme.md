@@ -2,7 +2,7 @@
 - python 
 
 Repository architecture
-![project architecture](/Users/shwetakc/automatic_inconsistency_detection/directory.png)
+![project architecture](https://github.com/jenshwetakc/automatic_inconsistency_detection/blob/main/directory.png)
 
 ## Automatic inconsistency detection between light and dark mode 
 Our approach first collect the pair of screenshot using selenium script and 
