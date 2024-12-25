@@ -1,6 +1,8 @@
-Requirement 
+## Requirement 
+- python 
 
-
+Repository architecture
+![](/Users/shwetakc/Desktop/Screenshot 2024-12-25 at 6.24.30 PM.png)
 
 
 # Process to replicate the inconsistency detection 
@@ -12,7 +14,7 @@ Requirement
      - To check the inconsistency for those application that only support dark mode and use extension to convert into light mode use directory dawn_bring_clarity 
      
 2. Quick run
-   - select any application from the dataset 
+   - Select any application from the dataset 
    - Edge detection: Run (path/to/automated_darklight_inconsistency_detection/shadow_reveal_truth/edge_inconsistency/edge_inconsistency.py)
    
      - input directory: (path/to/automated_darklight_inconsistency_detection/web_application/app_with_extension/dark_mode_for_web/buzzfeed/input/buzzfeed)
@@ -103,3 +105,6 @@ ii. Missing Text:
 - missing_text.png: Side-by-side light and dark mode images, with missing text highlighted using bounding boxes.
 - missing_text.json: Details of missing text content and mode.
 - summary.json: A summary of images with problematic areas.
+
+
+Full dataset available over here: 
