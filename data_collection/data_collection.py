@@ -3,6 +3,15 @@
 data collection for the application with toggle button
 Note: use the case you application url and based on the url choose the case number and run the script
 
+please pass the link to visited url to save the visited url (you might get an error if you did not pass the url)
+
+Before running the script
+please add the directory for the following
+1. url = "application url"
+2. extension_path = path to extension
+3. webdriver_path = path of the chrome driver
+3. file_path: path to save the visited links of the application
+
 '''
 
 
@@ -272,17 +281,17 @@ def is_dark_theme(driver):
         # # # Case D-1.3 end
 
         # ##Case D-1.4 start
-        # body_tag = driver.find_element(By.TAG_NAME, 'body')
-        # dark_class_enabled = body_tag.get_attribute('class')
-        # print(dark_class_enabled)
-        # dark_class_enabled = driver.find_element(By.CLASS_NAME, 'dark-theme')
-        #
-        # if dark_class_enabled:
-        #     print('dark mode enabled')
-        #     return True
-        # else:
-        #     print('application is in light mode')
-        #     return False
+        body_tag = driver.find_element(By.TAG_NAME, 'body')
+        dark_class_enabled = body_tag.get_attribute('class')
+        print(dark_class_enabled)
+        dark_class_enabled = driver.find_element(By.CLASS_NAME, 'dark-theme')
+
+        if dark_class_enabled:
+            print('dark mode enabled')
+            return True
+        else:
+            print('application is in light mode')
+            return False
         # ##Case D-1.4 end
 
 
@@ -421,7 +430,7 @@ def is_toggle_theme_button(driver):
         # # Case D-1.3 end
 
         # # # Case D-1.4 start
-        # theme_toggle_button = driver.find_element(By.ID, 'theme-toggle-desktop')
+        theme_toggle_button = driver.find_element(By.ID, 'theme-toggle-desktop')
         #
         # # # Case D-1.4 end
 
@@ -632,9 +641,9 @@ def toggle_to_dark(driver):
         # ## Case D-1.3 end
 
         # # ## Case D-1.4 start
-        # toggle_button = driver.find_element(By.ID, 'theme-toggle-desktop')
+        toggle_button = driver.find_element(By.ID, 'theme-toggle-desktop')
         # print(toggle_button)
-        # driver.execute_script("arguments[0].click();", toggle_button)
+        driver.execute_script("arguments[0].click();", toggle_button)
         # # ## Case D-1.4 start
 
 
@@ -723,9 +732,9 @@ def toggle_to_light(driver):
         # Case A-1.8 end
 
         # # ## Case D-1.4 start
-        # toggle_button = driver.find_element(By.ID, 'theme-toggle-desktop')
+        toggle_button = driver.find_element(By.ID, 'theme-toggle-desktop')
         # print(toggle_button)
-        # driver.execute_script("arguments[0].click();", toggle_button)
+        driver.execute_script("arguments[0].click();", toggle_button)
         # # ## Case D-1.4 start
 
 
