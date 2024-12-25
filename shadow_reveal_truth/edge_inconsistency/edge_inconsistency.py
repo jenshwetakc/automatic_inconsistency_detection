@@ -18,8 +18,8 @@ from scipy.spatial import cKDTree  # Efficient for nearest-neighbor search
 
 
 # Directory containing light and dark mode images
-input_dir = '/path/to/input/image'
-output_dir = '/path/to/output/folder'
+input_dir = '/path/to/automatic_inconsistency_detection/web_applications/shadow_reveal_truth/application_with_system_preferences/narcity/input/narcity'
+output_dir = '/path/to/automatic_inconsistency_detection/web_applications/shadow_reveal_truth/application_with_system_preferences/narcity/output/edge_inconsistency'
 
 
 # Ensure output directory exists

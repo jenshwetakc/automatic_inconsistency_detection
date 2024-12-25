@@ -138,9 +138,9 @@ def process_batch(image_dir, json_dir, output_dir):
 
 def main():
    # upstage ocr
-    image_dir = 'path to image directory (original  light and dark mode screenshot)'
-    json_dir = 'path to json file from ocr'
-    output_dir = 'output directory'
+    image_dir = 'path/to/automatic_inconsistency_detection/web_applications/shadow_reveal_truth/application_with_system_preferences/narcity/input/narcity'
+    json_dir = 'path/to/automatic_inconsistency_detection/web_applications/shadow_reveal_truth/application_with_system_preferences/narcity/input/ocr'
+    output_dir = '/path/to/automatic_inconsistency_detection/web_applications/shadow_reveal_truth/application_with_system_preferences/narcity/output/text_inconsistency'
     # Process the batch of images
     process_batch(image_dir, json_dir, output_dir)
 
