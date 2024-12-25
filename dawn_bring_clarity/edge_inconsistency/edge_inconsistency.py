@@ -13,7 +13,7 @@ from scipy.spatial import cKDTree  # Efficient for nearest-neighbor search
 
 
 # Directory containing light and dark mode images
-input_dir = 'path/to/image_directory'
+input_dir = 'path/to/automatic_inconsistency_detection/web_applications/narcity/input/narcity'
 output_dir = 'path/to/output_directory'
 
 

@@ -5,9 +5,8 @@ Dawn being clarity - application only support dark mode and use extension to con
 import json
 import os
 
-from embracing_dark_side.dwan_bring_clarity.text_inconsistency.batch.invisible_text import invisible_text_inconsistency
-from embracing_dark_side.dwan_bring_clarity.text_inconsistency.batch.missing_text import missing_text
-
+from dawn_bring_clarity.text_inconsistency.invisible_text import invisible_text_inconsistency
+from dawn_bring_clarity.text_inconsistency.missing_text import missing_text
 
 # from partial_conversion.partial_conversion_batch import partial_conversion_batch
 

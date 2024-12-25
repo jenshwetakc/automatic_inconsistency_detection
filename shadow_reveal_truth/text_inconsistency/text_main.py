@@ -11,8 +11,8 @@ Shadow reveal truth - application that support light and dark mode
 import json
 import os
 
-from embracing_dark_side.shadow_reveal_truth.text_inconsistency.batch.invisible_text import invisible_text_inconsistency
-from embracing_dark_side.shadow_reveal_truth.text_inconsistency.batch.missing_text import missing_text
+from shadow_reveal_truth.text_inconsistency.invisible_text import invisible_text_inconsistency
+from shadow_reveal_truth.text_inconsistency.missing_text import missing_text
 
 
 def merge_json_results(output_json_1: str, output_json_2: str, merged_output_path: str):
