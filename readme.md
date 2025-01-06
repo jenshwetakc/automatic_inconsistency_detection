@@ -1,12 +1,11 @@
 ## Requirement 
-- python 
+- Python 
 
 ## Automatic inconsistency detection between light and dark mode 
-Our approach first collect the pair of screenshot using selenium script and 
+Our approach first collect the pair of screenshots using selenium script and 
 identify two types of discrepancies between the pairs:
-(1) Text inconsistency, which analyze (i) invisible text cause by poor contrast due to improper mapping of color and
-(ii) missing text that blend into background during conversion. 
-(2) Edge inconsistency, ensure the element like divider, text button border, icon border remain visible and consistent across both modes. 
+(1) Text inconsistency, which analyzes (i) Invisible text caused by poor contrast due to improper mapping of color; (ii) Missing text that blends into the background during conversion. 
+(2) Edge inconsistency, ensure the elements like the divider, text button border, and icon border remain visible and consistent across both modes. 
 
 
 # Process to replicate the inconsistency detection 
@@ -15,7 +14,7 @@ identify two types of discrepancies between the pairs:
    - Select the pair of screenshot 
    - Run the detection 
      - To check the inconsistency from light to dark mode conversion use directory shadow_reveal_truth
-     - To check the inconsistency for those application that only support dark mode and use extension to convert into light mode use directory dawn_bring_clarity 
+     - To check the inconsistency for that application that only supports dark mode and uses an extension to convert into light mode use the directory dawn_bring_clarity 
      
 2. Quick run
    - Select any application from the dataset 
@@ -59,18 +58,18 @@ Repository architecture
 2. Collect Data for system preference theme setting Applications:
    - For applications that change themes based on system settings :
    - Run the systempreference.py to capture screenshots in one mode.
-   - Once the script complete the process in one mode, the script will stop for few second at that time manually change the system setting to the other mode.
+   - Once the script completes the process in one mode, the script will stop for a few seconds at that time manually change the system setting to the other mode.
 3. Collect Data Using Extensions:
    - run the file data_collection_with_extension.py
    - add the crx file of the extension
-4. Run the script data_collection.py to capture the screenshot with toggle button
+4. Run the script data_collection.py to capture the screenshot with the toggle button
 
 
 ## Directory Descriptions
 1. dawn_bring_clarity:
-   -  Contains code that will identify the inconsistency for those application that only support dark mode 
+   -  Contains code that will identify the inconsistency for those application that only supports dark mode 
    - extension is used to change the dark mode to light mode 
-   - in this phase Screenshots are converted to light mode using the extension.
+   - in this phase, Screenshots are converted to light mode using the extension.
    - to check the inconsistency from dark mode to light mode use the directory dawn_bring clarity.
 
 
